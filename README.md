@@ -69,6 +69,6 @@ For every topic, there is corresponding Jupyter Notebook in `part_one/`.
 
 ## Special Thanks
 
-Special thanks to *Alex Olteanu* who wrote a [tutorial](https://www.dataquest.io/blog/making-538-plots/) on creating graphs in the style of *FiveThirtyEight* at *Dataquest*.
+Special thanks to *Alex Olteanu* who wrote a [tutorial](https://www.dataquest.io/blog/making-538-plots/) on creating graphs in the style of [FiveThirtyEight](https://fivethirtyeight.com/) at [Dataquest](https://www.dataquest.io/).
 The plots created in this work are based on his work.
 
