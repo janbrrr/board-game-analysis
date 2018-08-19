@@ -5,7 +5,7 @@
 This project is about analyzing the data on board games available on [BoardGameGeek](https://boardgamegeek.com/).
 
 The analysis is divided into three parts and there is (will be) a short post on [my blog](https://janbarrera.com) for every one of them.
-* TBD
+* [Growth over Time and Kickstarter](#part_one)
 * TBD
 * TBD
 
@@ -55,4 +55,20 @@ Here are examples of the tables that are being used:
 
 For more information either refer to `data_collection/database/tables.py` or `database_schema.png`.
 
+## <a name="part_one"></a>Part One - Growth over Time and Kickstarter
+
+*The corresponding blog post is available [here](https://janbarrera.com/blog/post/board-game-analysis-part-1,1/)*.
+
+The first part is divided into the following topics:
+1. The Rise of Board Games
+2. The Influence of Kickstarter
+3. The Categories of the Board Games on Kickstarter
+4. Are the Board Games on Kickstarter better?
+
+For every topic, there is corresponding Jupyter Notebook in `part_one/`.
+
+## Special Thanks
+
+Special thanks to *Alex Olteanu* who wrote a [tutorial](https://www.dataquest.io/blog/making-538-plots/) on creating graphs in the style of *FiveThirtyEight* at *Dataquest*.
+The plots created in this work are based on his work.
 
