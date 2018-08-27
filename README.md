@@ -4,7 +4,7 @@
 
 This project is about analyzing the data on board games available on [BoardGameGeek](https://boardgamegeek.com/).
 
-The analysis is divided into three parts and there is (will be) a short post on [my blog](https://janbarrera.com) for every one of them.
+The analysis is divided into three parts and there is (will be) a short post on my blog for every one of them.
 * [Growth over Time and Kickstarter](#part_one)
 * TBD
 * TBD
@@ -57,7 +57,7 @@ For more information either refer to `data_collection/database/tables.py` or `da
 
 ## <a name="part_one"></a>Part One - Growth over Time and Kickstarter
 
-*The corresponding blog post is available [here](https://janbarrera.com/blog/post/board-game-analysis-part-1,1/)*.
+*The corresponding blog post is available [here](https://janbarrera.com/blog/post/board-game-analysis-part-1/)*.
 
 The first part is divided into the following topics:
 1. The Rise of Board Games
