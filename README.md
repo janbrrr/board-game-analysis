@@ -6,7 +6,7 @@ This project is about analyzing the data on board games available on [BoardGameG
 
 The analysis is divided into three parts and there is (will be) a short post on my blog for every one of them.
 * [Growth over Time and Kickstarter](#part_one)
-* TBD
+* [A Network Visualization of the Board Game Categories](#part_two)
 * TBD
 
 ## Collecting the Data
@@ -67,8 +67,26 @@ The first part is divided into the following topics:
 
 For every topic, there is corresponding Jupyter Notebook in `part_one/`.
 
+## <a name="part_two"></a>Part Two - A Network Visualization of the Board Game Categories
+
+*The corresponding blog post is available [here](https://janbarrera.com/blog/post/board-game-analysis-part-2/)*
+
+This part uses *[Gephi](https://gephi.org/)* and their *Force Atlas 2* algorithm to create a network visualization of the board game categories,
+where every node is a category and the edge weight between two categories indicates how often both categories co-occur in board games.
+
+The script in `part_two/create_nodes_and_edges.py` was used to create the node list and the edge list for further usage in Gephi. The node list and edge list I used in my blog are available at `part_two/data/`. 
+Finally, the corresponding project files for Gephi and the exported graph files are available at `part_two/gephi/`.
+
+The *filters* I used Gephi were the following (for some reason the values are not saved):
+- Removal of edges with a weight less than 15.0
+- Removal of nodes that have a count value of less than 100
+
 ## Special Thanks
 
 Special thanks to *Alex Olteanu* who wrote a [tutorial](https://www.dataquest.io/blog/making-538-plots/) on creating graphs in the style of [FiveThirtyEight](https://fivethirtyeight.com/) at [Dataquest](https://www.dataquest.io/).
 The plots created in this work are based on his work.
+
+Also special thanks to *David Kriesel* and [his work](http://www.dkriesel.com/spiegelmining) on reverse engineering the german news website *Spiegel Online*.
+His work served as inspiration for this project and the network visualization on the board game categories is based on his network visualization of the news keywords and their relationships. 
+If you understand german, I highly recommend you to check it out.
 

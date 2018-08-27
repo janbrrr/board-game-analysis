@@ -1,0 +1,2069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-08-20">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="count" title="count" type="integer"></attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="avg_rating" title="avg_rating" type="double"></attribute>
+      <attribute id="norm_avg_rating" title="norm_avg_rating" type="double"></attribute>
+      <attribute id="avg_weight" title="avg_weight" type="double"></attribute>
+      <attribute id="norm_avg_weight" title="norm_avg_weight" type="double"></attribute>
+    </attributes>
+    <nodes>
+      <node id="5" label="Wargame">
+        <attvalues>
+          <attvalue for="count" value="2539"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4563758389261745"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5465686274509803"></attvalue>
+          <attvalue for="betweenesscentrality" value="243.0802373065531"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="6.923524403308381"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.027409666545085"></attvalue>
+          <attvalue for="avg_weight" value="2.7746352107128787"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.3354756636076706"></attvalue>
+        </attvalues>
+        <viz:size value="22.999165"></viz:size>
+        <viz:position x="568.314" y="-121.20582"></viz:position>
+        <viz:color r="251" g="119" b="109"></viz:color>
+      </node>
+      <node id="31" label="World War II">
+        <attvalues>
+          <attvalue for="count" value="842"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.39766081871345027"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.43382352941176433"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.8527777777777777"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="6.969091211401418"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.137192271075698"></attvalue>
+          <attvalue for="avg_weight" value="2.867823752969123"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.521204395242527"></attvalue>
+        </attvalues>
+        <viz:size value="23.74194"></viz:size>
+        <viz:position x="595.2723" y="-26.689753"></viz:position>
+        <viz:color r="251" g="107" b="97"></viz:color>
+      </node>
+      <node id="83" label="Expansion for Base-game">
+        <attvalues>
+          <attvalue for="count" value="24"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5123456790123457"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.532128514056225"></attvalue>
+          <attvalue for="betweenesscentrality" value="53.18749879249297"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="7.2907158333333335"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.9120718414148585"></attvalue>
+          <attvalue for="avg_weight" value="2.4090708333333333"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.6068902978779106"></attvalue>
+        </attvalues>
+        <viz:size value="20.085373"></viz:size>
+        <viz:position x="519.5324" y="30.495117"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="84" label="Fan Expansion">
+        <attvalues>
+          <attvalue for="count" value="1"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.37727272727272726"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.40361445783132494"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.25"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="6.67778"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.4353457987198111"></attvalue>
+          <attvalue for="avg_weight" value="1.75"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.7066659287656664"></attvalue>
+        </attvalues>
+        <viz:size value="14.83214"></viz:size>
+        <viz:position x="173.53888" y="-144.79613"></viz:position>
+        <viz:color r="0" g="202" b="255"></viz:color>
+      </node>
+      <node id="42" label="Napoleonic">
+        <attvalues>
+          <attvalue for="count" value="233"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3148148148148148"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34436274509803916"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="7.1423029184549325"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.5545055113777806"></attvalue>
+          <attvalue for="avg_weight" value="2.7263227467811157"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.2391868663912957"></attvalue>
+        </attvalues>
+        <viz:size value="22.614084"></viz:size>
+        <viz:position x="653.6781" y="-158.67587"></viz:position>
+        <viz:color r="253" g="63" b="50"></viz:color>
+      </node>
+      <node id="55" label="American Civil War">
+        <attvalues>
+          <attvalue for="count" value="154"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3148148148148148"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34436274509803916"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="6.798776493506491"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.7268586509936087"></attvalue>
+          <attvalue for="avg_weight" value="2.8238175324675323"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.4334981244938116"></attvalue>
+        </attvalues>
+        <viz:size value="23.391182"></viz:size>
+        <viz:position x="744.0634" y="-57.400463"></viz:position>
+        <viz:color r="250" g="150" b="143"></viz:color>
+      </node>
+      <node id="21" label="Adventure">
+        <attvalues>
+          <attvalue for="count" value="760"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.53125"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5833333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="19.176751968747865"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="avg_rating" value="6.523067144736842"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.06260123055786643"></attvalue>
+          <attvalue for="avg_weight" value="2.1771050000000014"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.14457251755298703"></attvalue>
+        </attvalues>
+        <viz:size value="18.23645"></viz:size>
+        <viz:position x="248.87004" y="84.426575"></viz:position>
+        <viz:color r="247" g="220" b="218"></viz:color>
+      </node>
+      <node id="23" label="Fantasy">
+        <attvalues>
+          <attvalue for="count" value="1865"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5528455284552846"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6200980392156863"></attvalue>
+          <attvalue for="betweenesscentrality" value="40.52647126962816"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="avg_rating" value="6.592253340482567"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.2292892450227449"></attvalue>
+          <attvalue for="avg_weight" value="2.1178976943699706"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.026569837052358495"></attvalue>
+        </attvalues>
+        <viz:size value="17.76453"></viz:size>
+        <viz:position x="94.238144" y="26.170122"></viz:position>
+        <viz:color r="248" g="202" b="199"></viz:color>
+      </node>
+      <node id="64" label="World War I">
+        <attvalues>
+          <attvalue for="count" value="164"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3756906077348066"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4056372549019604"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.3611111111111111"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="7.020295121951217"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.2605561602213256"></attvalue>
+          <attvalue for="avg_weight" value="2.739403658536586"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.2652576803577862"></attvalue>
+        </attvalues>
+        <viz:size value="22.718346"></viz:size>
+        <viz:position x="808.124" y="-12.057593"></viz:position>
+        <viz:color r="252" g="94" b="83"></viz:color>
+      </node>
+      <node id="75" label="American Revolutionary War">
+        <attvalues>
+          <attvalue for="count" value="52"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.37727272727272726"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.40963855421686723"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.746711866564806"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="7.265052115384618"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.8502410940735818"></attvalue>
+          <attvalue for="avg_weight" value="2.6201269230769224"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.0275340691271877"></attvalue>
+        </attvalues>
+        <viz:size value="21.767632"></viz:size>
+        <viz:position x="725.1229" y="178.47115"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="44" label="Modern Warfare">
+        <attvalues>
+          <attvalue for="count" value="186"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.43627450980392124"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.8666666666666666"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="6.848737150537636"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.8472272105324098"></attvalue>
+          <attvalue for="avg_weight" value="2.7218564516129033"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.2302853499965225"></attvalue>
+        </attvalues>
+        <viz:size value="22.578484"></viz:size>
+        <viz:position x="757.3002" y="-191.52692"></viz:position>
+        <viz:color r="250" g="137" b="129"></viz:color>
+      </node>
+      <node id="48" label="Vietnam War">
+        <attvalues>
+          <attvalue for="count" value="45"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32806324110671936"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36947791164658617"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="7.050628666666666"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.333637766830868"></attvalue>
+          <attvalue for="avg_weight" value="2.875"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.5355069610588077"></attvalue>
+        </attvalues>
+        <viz:size value="23.79914"></viz:size>
+        <viz:position x="660.568" y="107.92013"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="25" label="Age of Reason">
+        <attvalues>
+          <attvalue for="count" value="115"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3148148148148148"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34436274509803916"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="7.048563478260868"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.328662176669449"></attvalue>
+          <attvalue for="avg_weight" value="2.856242608695653"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.4981226817108642"></attvalue>
+        </attvalues>
+        <viz:size value="23.649632"></viz:size>
+        <viz:position x="810.4056" y="-95.41303"></viz:position>
+        <viz:color r="252" g="87" b="75"></viz:color>
+      </node>
+      <node id="14" label="Science Fiction">
+        <attvalues>
+          <attvalue for="count" value="1125"></attvalue>
+          <attvalue for="eccentricity" value="2.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5714285714285714"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.625"></attvalue>
+          <attvalue for="betweenesscentrality" value="90.15812374604106"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="avg_rating" value="6.58491408888889"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.2116070287565942"></attvalue>
+          <attvalue for="avg_weight" value="2.304879911111114"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.3992333546134921"></attvalue>
+        </attvalues>
+        <viz:size value="19.254902"></viz:size>
+        <viz:position x="255.27718" y="-22.761314"></viz:position>
+        <viz:color r="248" g="204" b="201"></viz:color>
+      </node>
+      <node id="71" label="Space Exploration">
+        <attvalues>
+          <attvalue for="count" value="180"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5037037037037037"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5416666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="16.460762233982045"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="avg_rating" value="6.701349388888889"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.49213074828516057"></attvalue>
+          <attvalue for="avg_weight" value="2.5076605555555553"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.8033838111063477"></attvalue>
+        </attvalues>
+        <viz:size value="20.8712"></viz:size>
+        <viz:position x="309.55743" y="-93.58487"></viz:position>
+        <viz:color r="249" g="175" b="169"></viz:color>
+      </node>
+      <node id="18" label="Deduction">
+        <attvalues>
+          <attvalue for="count" value="737"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.49635036496350365"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5551470588235295"></attvalue>
+          <attvalue for="betweenesscentrality" value="8.202619907612169"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="avg_rating" value="6.335396445047484"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.389547582760674"></attvalue>
+          <attvalue for="avg_weight" value="1.6506921302578017"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.9045907405720461"></attvalue>
+        </attvalues>
+        <viz:size value="14.04059"></viz:size>
+        <viz:position x="-297.22708" y="188.74254"></viz:position>
+        <viz:color r="224" g="236" b="247"></viz:color>
+      </node>
+      <node id="45" label="Murder/Mystery">
+        <attvalues>
+          <attvalue for="count" value="211"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.48226950354609927"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5306372549019608"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.6359649122807018"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="avg_rating" value="6.326826729857818"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.4101943142957446"></attvalue>
+          <attvalue for="avg_weight" value="1.7311511848341232"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.7442324197614364"></attvalue>
+        </attvalues>
+        <viz:size value="14.681903"></viz:size>
+        <viz:position x="-237.37196" y="210.10507"></viz:position>
+        <viz:color r="222" g="235" b="247"></viz:color>
+      </node>
+      <node id="72" label="Korean War">
+        <attvalues>
+          <attvalue for="count" value="13"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32936507936507936"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3755020080321284"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.75"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="7.127235384615385"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.51820380015453"></attvalue>
+          <attvalue for="avg_weight" value="3.0024384615384623"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.789497239798789"></attvalue>
+        </attvalues>
+        <viz:size value="24.814909"></viz:size>
+        <viz:position x="668.1467" y="79.32103"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="66" label="Civil War">
+        <attvalues>
+          <attvalue for="count" value="79"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3933649289099526"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.43072289156626486"></attvalue>
+          <attvalue for="betweenesscentrality" value="9.494881893669783"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="6.863315569620255"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.882350513739448"></attvalue>
+          <attvalue for="avg_weight" value="2.747631645569621"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.281656408769607"></attvalue>
+        </attvalues>
+        <viz:size value="22.78393"></viz:size>
+        <viz:position x="528.3912" y="225.96599"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="67" label="Pike and Shot">
+        <attvalues>
+          <attvalue for="count" value="40"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.386046511627907"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.41967871485943753"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.3333333333333333"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="6.89833425"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.9667198628381158"></attvalue>
+          <attvalue for="avg_weight" value="3.0256599999999993"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.8357787544640998"></attvalue>
+        </attvalues>
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="476.2316" y="158.66829"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="77" label="American Indian Wars">
+        <attvalues>
+          <attvalue for="count" value="24"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5060975609756098"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5281124497991969"></attvalue>
+          <attvalue for="betweenesscentrality" value="110.14803412966953"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="7.131474166666667"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.5284161576380135"></attvalue>
+          <attvalue for="avg_weight" value="2.442154166666667"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.6728267895268238"></attvalue>
+        </attvalues>
+        <viz:size value="20.349072"></viz:size>
+        <viz:position x="589.8663" y="211.51917"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="33" label="Trains">
+        <attvalues>
+          <attvalue for="count" value="262"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4657534246575342"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.49387254901960775"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.094780219780218"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.82559469465649"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.7914708565503703"></attvalue>
+          <attvalue for="avg_weight" value="2.787393129770992"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.3609027393789386"></attvalue>
+        </attvalues>
+        <viz:size value="23.100855"></viz:size>
+        <viz:position x="413.9243" y="-401.77194"></viz:position>
+        <viz:color r="250" g="143" b="136"></viz:color>
+      </node>
+      <node id="34" label="Transportation">
+        <attvalues>
+          <attvalue for="count" value="275"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.39080459770114945"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4374999999999997"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.7333333333333325"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.659697345454545"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.39177985684444155"></attvalue>
+          <attvalue for="avg_weight" value="2.6689712727272714"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.1248829372224056"></attvalue>
+        </attvalues>
+        <viz:size value="22.156952"></viz:size>
+        <viz:position x="387.90143" y="-488.76093"></viz:position>
+        <viz:color r="249" g="185" b="181"></viz:color>
+      </node>
+      <node id="56" label="Post-Napoleonic">
+        <attvalues>
+          <attvalue for="count" value="66"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3254901960784314"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35742971887550185"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="6.86765893939394"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.8928148509653758"></attvalue>
+          <attvalue for="avg_weight" value="2.597745454545455"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.9829268495932177"></attvalue>
+        </attvalues>
+        <viz:size value="21.589237"></viz:size>
+        <viz:position x="607.0127" y="138.2221"></viz:position>
+        <viz:color r="115" g="192" b="0"></viz:color>
+      </node>
+      <node id="8" label="Party Game">
+        <attvalues>
+          <attvalue for="count" value="1427"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5271317829457365"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6139705882352943"></attvalue>
+          <attvalue for="betweenesscentrality" value="52.20669978885925"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="6.00547182200419"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.1844240714214689"></attvalue>
+          <attvalue for="avg_weight" value="1.256211142256483"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.6908081422144732"></attvalue>
+        </attvalues>
+        <viz:size value="10.896315"></viz:size>
+        <viz:position x="-408.56238" y="84.6217"></viz:position>
+        <viz:color r="135" g="195" b="250"></viz:color>
+      </node>
+      <node id="61" label="Trivia">
+        <attvalues>
+          <attvalue for="count" value="480"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.48226950354609927"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5306372549019607"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.001098755046122"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="5.505275625000004"></attvalue>
+          <attvalue for="norm_avg_rating" value="-2.3895302349102043"></attvalue>
+          <attvalue for="avg_weight" value="1.3503852083333343"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.5031152196526467"></attvalue>
+        </attvalues>
+        <viz:size value="11.646944"></viz:size>
+        <viz:position x="-447.8766" y="68.020615"></viz:position>
+        <viz:color r="0" g="132" b="255"></viz:color>
+      </node>
+      <node id="38" label="Exploration">
+        <attvalues>
+          <attvalue for="count" value="587"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.53125"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5784313725490197"></attvalue>
+          <attvalue for="betweenesscentrality" value="23.49623201863073"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="avg_rating" value="6.55964250425894"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.15072103525827515"></attvalue>
+          <attvalue for="avg_weight" value="2.22002640545145"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.23011670572756704"></attvalue>
+        </attvalues>
+        <viz:size value="18.578564"></viz:size>
+        <viz:position x="263.5082" y="27.718563"></viz:position>
+        <viz:color r="248" g="210" b="208"></viz:color>
+      </node>
+      <node id="20" label="Economic">
+        <attvalues>
+          <attvalue for="count" value="1088"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5354330708661418"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5955882352941176"></attvalue>
+          <attvalue for="betweenesscentrality" value="54.68369300118526"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.550283658088235"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.12817307653526044"></attvalue>
+          <attvalue for="avg_weight" value="2.5843561580882333"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.9562414117885911"></attvalue>
+        </attvalues>
+        <viz:size value="21.482513"></viz:size>
+        <viz:position x="276.49774" y="-401.53018"></viz:position>
+        <viz:color r="248" g="213" b="210"></viz:color>
+      </node>
+      <node id="70" label="Industry / Manufacturing">
+        <attvalues>
+          <attvalue for="count" value="204"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4689655172413793"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5012254901960783"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.819780219780216"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.8080087254901995"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.7491015623411172"></attvalue>
+          <attvalue for="avg_weight" value="2.7369279411764715"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.2603234702709272"></attvalue>
+        </attvalues>
+        <viz:size value="22.698612"></viz:size>
+        <viz:position x="259.0832" y="-451.74847"></viz:position>
+        <viz:color r="250" g="148" b="140"></viz:color>
+      </node>
+      <node id="24" label="Horror">
+        <attvalues>
+          <attvalue for="count" value="502"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5271317829457365"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5808823529411765"></attvalue>
+          <attvalue for="betweenesscentrality" value="17.452961892992516"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="avg_rating" value="6.463866673306771"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.08002850839079048"></attvalue>
+          <attvalue for="avg_weight" value="2.0197693227091627"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.16900418486807142"></attvalue>
+        </attvalues>
+        <viz:size value="16.982382"></viz:size>
+        <viz:position x="2.1396718" y="232.868"></viz:position>
+        <viz:color r="247" g="235" b="234"></viz:color>
+      </node>
+      <node id="82" label="Zombies">
+        <attvalues>
+          <attvalue for="count" value="178"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.49635036496350365"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5269607843137255"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.1052180374851654"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="avg_rating" value="6.462341235955056"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.0837036941790425"></attvalue>
+          <attvalue for="avg_weight" value="1.9322544943820221"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.34342496311941134"></attvalue>
+        </attvalues>
+        <viz:size value="16.28483"></viz:size>
+        <viz:position x="40.614407" y="201.43855"></viz:position>
+        <viz:color r="247" g="235" b="234"></viz:color>
+      </node>
+      <node id="1" label="Card Game">
+        <attvalues>
+          <attvalue for="count" value="4884"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.8192771084337349"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.9044117647058824"></attvalue>
+          <attvalue for="betweenesscentrality" value="1148.4200425671131"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="avg_rating" value="6.2292258783783865"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.6453408195752071"></attvalue>
+          <attvalue for="avg_weight" value="1.6504560196560218"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.9050613190523225"></attvalue>
+        </attvalues>
+        <viz:size value="14.03871"></viz:size>
+        <viz:position x="-132.54587" y="-10.382254"></viz:position>
+        <viz:color r="196" g="223" b="248"></viz:color>
+      </node>
+      <node id="52" label="Humor">
+        <attvalues>
+          <attvalue for="count" value="959"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5112781954887218"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5845588235294119"></attvalue>
+          <attvalue for="betweenesscentrality" value="23.97860061048916"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="6.045202533889465"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.0887021805724286"></attvalue>
+          <attvalue for="avg_weight" value="1.4887172054223161"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.2274136608364752"></attvalue>
+        </attvalues>
+        <viz:size value="12.749542"></viz:size>
+        <viz:position x="-327.16608" y="124.860855"></viz:position>
+        <viz:color r="146" g="200" b="250"></viz:color>
+      </node>
+      <node id="9" label="Word Game">
+        <attvalues>
+          <attvalue for="count" value="343"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4722222222222222"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5134803921568627"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.95"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="5.980903206997083"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.2436164234440865"></attvalue>
+          <attvalue for="avg_weight" value="1.328551020408164"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.546631685641224"></attvalue>
+        </attvalues>
+        <viz:size value="11.472911"></viz:size>
+        <viz:position x="-481.39163" y="102.49809"></viz:position>
+        <viz:color r="128" g="192" b="250"></viz:color>
+      </node>
+      <node id="15" label="Bluffing">
+        <attvalues>
+          <attvalue for="count" value="930"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5396825396825397"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6029411764705882"></attvalue>
+          <attvalue for="betweenesscentrality" value="34.460161647777745"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="avg_rating" value="6.323021344086016"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.4193625044489625"></attvalue>
+          <attvalue for="avg_weight" value="1.670413225806451"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.8652857576415398"></attvalue>
+        </attvalues>
+        <viz:size value="14.197781"></viz:size>
+        <viz:position x="-254.65071" y="165.625"></viz:position>
+        <viz:color r="221" g="235" b="247"></viz:color>
+      </node>
+      <node id="74" label="Collectible Components">
+        <attvalues>
+          <attvalue for="count" value="347"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5151515151515151"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5539215686274509"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.912452475447157"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="avg_rating" value="6.200191757925068"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.7152917662623843"></attvalue>
+          <attvalue for="avg_weight" value="2.183885878962536"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.15808709797874398"></attvalue>
+        </attvalues>
+        <viz:size value="18.2905"></viz:size>
+        <viz:position x="17.319057" y="57.43081"></viz:position>
+        <viz:color r="188" g="219" b="248"></viz:color>
+      </node>
+      <node id="17" label="Children's Game">
+        <attvalues>
+          <attvalue for="count" value="1260"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5151515151515151"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5919117647058825"></attvalue>
+          <attvalue for="betweenesscentrality" value="44.07893972349823"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="5.6968807777777695"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.9279022738188616"></attvalue>
+          <attvalue for="avg_weight" value="1.1437595238095237"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.914929004702169"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-374.0608" y="-120.329346"></viz:position>
+        <viz:color r="51" g="156" b="253"></viz:color>
+      </node>
+      <node id="28" label="Action / Dexterity">
+        <attvalues>
+          <attvalue for="count" value="813"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4857142857142857"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5379901960784313"></attvalue>
+          <attvalue for="betweenesscentrality" value="10.342489820121399"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="5.981742853628533"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.2415934905694006"></attvalue>
+          <attvalue for="avg_weight" value="1.1845606396063968"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.833610644067202"></attvalue>
+        </attvalues>
+        <viz:size value="10.3252125"></viz:size>
+        <viz:position x="-436.1469" y="-66.70057"></viz:position>
+        <viz:color r="129" g="192" b="250"></viz:color>
+      </node>
+      <node id="49" label="Animals">
+        <attvalues>
+          <attvalue for="count" value="911"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5037037037037037"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5698529411764706"></attvalue>
+          <attvalue for="betweenesscentrality" value="21.262731712731714"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="6.080407672886937"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.0038836028894462"></attvalue>
+          <attvalue for="avg_weight" value="1.4567212952799125"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.2911828717756373"></attvalue>
+        </attvalues>
+        <viz:size value="12.4945135"></viz:size>
+        <viz:position x="-321.24167" y="-225.37839"></viz:position>
+        <viz:color r="155" g="204" b="249"></viz:color>
+      </node>
+      <node id="13" label="Miniatures">
+        <attvalues>
+          <attvalue for="count" value="784"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4755244755244755"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5514705882352942"></attvalue>
+          <attvalue for="betweenesscentrality" value="75.0176262634854"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="avg_rating" value="7.1538972193877575"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.5824392773663565"></attvalue>
+          <attvalue for="avg_weight" value="2.615574617346939"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.0184611300214441"></attvalue>
+        </attvalues>
+        <viz:size value="21.731346"></viz:size>
+        <viz:position x="321.00946" y="113.87586"></viz:position>
+        <viz:color r="253" g="60" b="47"></viz:color>
+      </node>
+      <node id="41" label="Book">
+        <attvalues>
+          <attvalue for="count" value="66"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4322916666666667"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4759036144578314"></attvalue>
+          <attvalue for="betweenesscentrality" value="8.010923440612732"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="7.328187272727273"></attvalue>
+          <attvalue for="norm_avg_rating" value="2.0023505417306344"></attvalue>
+          <attvalue for="avg_weight" value="2.526319696969697"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.8405722742407385"></attvalue>
+        </attvalues>
+        <viz:size value="21.019924"></viz:size>
+        <viz:position x="290.97498" y="-17.386955"></viz:position>
+        <viz:color r="76" g="70" b="62"></viz:color>
+      </node>
+      <node id="80" label="Mature / Adult">
+        <attvalues>
+          <attvalue for="count" value="105"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.46258503401360546"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.49142156862745096"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="5.889890190476194"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.4628910757183968"></attvalue>
+          <attvalue for="avg_weight" value="1.4501457142857141"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.3042882846112254"></attvalue>
+        </attvalues>
+        <viz:size value="12.442102"></viz:size>
+        <viz:position x="-342.52042" y="101.7592"></viz:position>
+        <viz:color r="104" g="180" b="251"></viz:color>
+      </node>
+      <node id="39" label="Fighting">
+        <attvalues>
+          <attvalue for="count" value="1218"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5811965811965812"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.659313725490196"></attvalue>
+          <attvalue for="betweenesscentrality" value="74.0282425934196"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="avg_rating" value="6.626330385878487"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.31138994408056825"></attvalue>
+          <attvalue for="avg_weight" value="2.2096225779967162"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.2093814347325309"></attvalue>
+        </attvalues>
+        <viz:size value="18.495638"></viz:size>
+        <viz:position x="146.17784" y="134.0876"></viz:position>
+        <viz:color r="248" g="194" b="190"></viz:color>
+      </node>
+      <node id="30" label="Aviation / Flight">
+        <attvalues>
+          <attvalue for="count" value="162"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5112781954887218"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.536764705882353"></attvalue>
+          <attvalue for="betweenesscentrality" value="55.68284032066504"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="6.823189320987651"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.7856756692795089"></attvalue>
+          <attvalue for="avg_weight" value="2.3528524691358026"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.49484470488770427"></attvalue>
+        </attvalues>
+        <viz:size value="19.637276"></viz:size>
+        <viz:position x="708.1179" y="23.81263"></viz:position>
+        <viz:color r="250" g="144" b="136"></viz:color>
+      </node>
+      <node id="26" label="Nautical">
+        <attvalues>
+          <attvalue for="count" value="412"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.53125"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5637254901960784"></attvalue>
+          <attvalue for="betweenesscentrality" value="82.16787820023117"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="6.571682257281559"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.1797280142424015"></attvalue>
+          <attvalue for="avg_weight" value="2.2891351941747575"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.36785346352668474"></attvalue>
+        </attvalues>
+        <viz:size value="19.129406"></viz:size>
+        <viz:position x="517.62537" y="-85.94026"></viz:position>
+        <viz:color r="248" g="207" b="205"></viz:color>
+      </node>
+      <node id="27" label="Pirates">
+        <attvalues>
+          <attvalue for="count" value="282"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5037037037037037"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5318627450980392"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.9850732600732597"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="6.212242978723406"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.6862571583452842"></attvalue>
+          <attvalue for="avg_weight" value="1.7132762411347522"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.7798579434679862"></attvalue>
+        </attvalues>
+        <viz:size value="14.539428"></viz:size>
+        <viz:position x="386.10593" y="-0.1319119"></viz:position>
+        <viz:color r="191" g="221" b="248"></viz:color>
+      </node>
+      <node id="3" label="Negotiation">
+        <attvalues>
+          <attvalue for="count" value="508"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5112781954887218"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5514705882352942"></attvalue>
+          <attvalue for="betweenesscentrality" value="10.143122400475342"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.159070984251973"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.8143626870284154"></attvalue>
+          <attvalue for="avg_weight" value="2.1168023622047243"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.024386793420120345"></attvalue>
+        </attvalues>
+        <viz:size value="17.7558"></viz:size>
+        <viz:position x="240.8547" y="-245.34076"></viz:position>
+        <viz:color r="177" g="214" b="249"></viz:color>
+      </node>
+      <node id="51" label="Memory">
+        <attvalues>
+          <attvalue for="count" value="420"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4755244755244755"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5159313725490196"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.2083333333333333"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="5.850577238095237"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.5576064724026981"></attvalue>
+          <attvalue for="avg_weight" value="1.3281711904761906"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.5473887028645261"></attvalue>
+        </attvalues>
+        <viz:size value="11.469884"></viz:size>
+        <viz:position x="-354.34143" y="-41.02859"></viz:position>
+        <viz:color r="93" g="175" b="251"></viz:color>
+      </node>
+      <node id="68" label="Mafia">
+        <attvalues>
+          <attvalue for="count" value="106"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4689655172413793"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5061274509803921"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.25"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="avg_rating" value="6.389617641509435"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.2589142464030913"></attvalue>
+          <attvalue for="avg_weight" value="1.9047367924528296"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.3982689144579946"></attvalue>
+        </attvalues>
+        <viz:size value="16.065495"></viz:size>
+        <viz:position x="-229.96593" y="106.72998"></viz:position>
+        <viz:color r="239" g="243" b="247"></viz:color>
+      </node>
+      <node id="63" label="Number">
+        <attvalues>
+          <attvalue for="count" value="135"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4755244755244755"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5159313725490196"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.3666666666666667"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="avg_rating" value="5.948317333333335"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.3221244917381763"></attvalue>
+          <attvalue for="avg_weight" value="1.4394518518518515"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.3256016076660868"></attvalue>
+        </attvalues>
+        <viz:size value="12.356865"></viz:size>
+        <viz:position x="-432.56937" y="-194.09528"></viz:position>
+        <viz:color r="120" g="187" b="251"></viz:color>
+      </node>
+      <node id="73" label="Spies/Secret Agents">
+        <attvalues>
+          <attvalue for="count" value="136"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4927536231884058"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5245098039215685"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.288127558715794"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="avg_rating" value="6.519401397058826"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.053769465848278145"></attvalue>
+          <attvalue for="avg_weight" value="1.9531897058823535"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.30170019541382503"></attvalue>
+        </attvalues>
+        <viz:size value="16.451698"></viz:size>
+        <viz:position x="-301.64566" y="235.9582"></viz:position>
+        <viz:color r="247" g="221" b="219"></viz:color>
+      </node>
+      <node id="46" label="Novel-based">
+        <attvalues>
+          <attvalue for="count" value="330"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4857142857142857"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5330882352941176"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.173120300751879"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="avg_rating" value="6.154712272727274"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.8248639866279419"></attvalue>
+          <attvalue for="avg_weight" value="1.9267400000000015"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.3544155851678168"></attvalue>
+        </attvalues>
+        <viz:size value="16.240875"></viz:size>
+        <viz:position x="-65.710266" y="177.14081"></viz:position>
+        <viz:color r="175" g="213" b="249"></viz:color>
+      </node>
+      <node id="76" label="Video Game Theme">
+        <attvalues>
+          <attvalue for="count" value="216"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4892086330935252"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.517156862745098"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.09090909090909091"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="avg_rating" value="6.377367777777778"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.2884274381733078"></attvalue>
+          <attvalue for="avg_weight" value="2.0225074074074074"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.16354706550767353"></attvalue>
+        </attvalues>
+        <viz:size value="17.004206"></viz:size>
+        <viz:position x="77.249344" y="107.80858"></viz:position>
+        <viz:color r="236" g="242" b="247"></viz:color>
+      </node>
+      <node id="69" label="Comic Book / Strip">
+        <attvalues>
+          <attvalue for="count" value="219"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5037037037037037"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5367647058823529"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.4980751803423082"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="avg_rating" value="6.275642283105023"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.5335113099586242"></attvalue>
+          <attvalue for="avg_weight" value="1.7387287671232876"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.7291299756910555"></attvalue>
+        </attvalues>
+        <viz:size value="14.742302"></viz:size>
+        <viz:position x="-125.524315" y="30.340334"></viz:position>
+        <viz:color r="208" g="229" b="248"></viz:color>
+      </node>
+      <node id="2" label="Ancient">
+        <attvalues>
+          <attvalue for="count" value="563"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5230769230769231"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5539215686274509"></attvalue>
+          <attvalue for="betweenesscentrality" value="22.331204536777296"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.615559094138542"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.28543902693588113"></attvalue>
+          <attvalue for="avg_weight" value="2.4020944937833058"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.5929861561807711"></attvalue>
+        </attvalues>
+        <viz:size value="20.029768"></viz:size>
+        <viz:position x="424.14883" y="-202.94856"></viz:position>
+        <viz:color r="248" g="196" b="193"></viz:color>
+      </node>
+      <node id="10" label="Civilization">
+        <attvalues>
+          <attvalue for="count" value="260"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5151515151515151"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5588235294117648"></attvalue>
+          <attvalue for="betweenesscentrality" value="8.142586373894423"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.930850038461538"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.0450590771711836"></attvalue>
+          <attvalue for="avg_weight" value="2.820649615384616"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.4271843308933436"></attvalue>
+        </attvalues>
+        <viz:size value="23.365932"></viz:size>
+        <viz:position x="310.88568" y="-305.76987"></viz:position>
+        <viz:color r="251" g="117" b="107"></viz:color>
+      </node>
+      <node id="62" label="Music">
+        <attvalues>
+          <attvalue for="count" value="64"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.44623655913978494"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.48092369477911645"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="avg_rating" value="5.89361875"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.4539079805049895"></attvalue>
+          <attvalue for="avg_weight" value="1.6243546875"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.9570823851399102"></attvalue>
+        </attvalues>
+        <viz:size value="13.830664"></viz:size>
+        <viz:position x="-490.60382" y="-36.612766"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="58" label="Educational">
+        <attvalues>
+          <attvalue for="count" value="376"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4927536231884058"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5477941176470589"></attvalue>
+          <attvalue for="betweenesscentrality" value="12.386446886446883"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="avg_rating" value="6.069424893617024"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.03034404994938"></attvalue>
+          <attvalue for="avg_weight" value="1.5549473404255323"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.0954141824421406"></attvalue>
+        </attvalues>
+        <viz:size value="13.277441"></viz:size>
+        <viz:position x="-438.23422" y="-150.08438"></viz:position>
+        <viz:color r="152" g="203" b="250"></viz:color>
+      </node>
+      <node id="47" label="Movies / TV / Radio theme">
+        <attvalues>
+          <attvalue for="count" value="783"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.53125"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5833333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="42.75826292574678"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+          <attvalue for="avg_rating" value="5.693429833971905"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.936216518659603"></attvalue>
+          <attvalue for="avg_weight" value="1.6758288633461054"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.854492161488181"></attvalue>
+        </attvalues>
+        <viz:size value="14.240948"></viz:size>
+        <viz:position x="-88.52628" y="128.28549"></viz:position>
+        <viz:color r="50" g="155" b="253"></viz:color>
+      </node>
+      <node id="29" label="Real-time">
+        <attvalues>
+          <attvalue for="count" value="497"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4788732394366197"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5232843137254901"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.840936329752118"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="6.2172001408450654"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.6743140315042487"></attvalue>
+          <attvalue for="avg_weight" value="1.4121885311871223"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.3799385663159065"></attvalue>
+        </attvalues>
+        <viz:size value="12.139558"></viz:size>
+        <viz:position x="-492.95517" y="-19.946724"></viz:position>
+        <viz:color r="192" g="221" b="248"></viz:color>
+      </node>
+      <node id="81" label="Math">
+        <attvalues>
+          <attvalue for="count" value="102"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4755244755244755"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5159313725490196"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.9083333333333332"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="avg_rating" value="5.801663235294116"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.6754533625021901"></attvalue>
+          <attvalue for="avg_weight" value="1.5202166666666668"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.1646338936843332"></attvalue>
+        </attvalues>
+        <viz:size value="13.000614"></viz:size>
+        <viz:position x="-410.87936" y="-172.07361"></viz:position>
+        <viz:color r="80" g="169" b="252"></viz:color>
+      </node>
+      <node id="35" label="Maze">
+        <attvalues>
+          <attvalue for="count" value="131"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.43870967741935485"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4963235294117646"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.329282918701077"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="avg_rating" value="6.195514198473279"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.7265612556331495"></attvalue>
+          <attvalue for="avg_weight" value="1.729680152671756"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.7471642494810095"></attvalue>
+        </attvalues>
+        <viz:size value="14.670177"></viz:size>
+        <viz:position x="82.179115" y="-9.430781"></viz:position>
+        <viz:color r="187" g="219" b="248"></viz:color>
+      </node>
+      <node id="78" label="Mythology">
+        <attvalues>
+          <attvalue for="count" value="258"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.49635036496350365"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5318627450980392"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.5595238095238093"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.697631124031007"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.48317245567007483"></attvalue>
+          <attvalue for="avg_weight" value="2.201223643410853"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.1926420005709031"></attvalue>
+        </attvalues>
+        <viz:size value="18.428694"></viz:size>
+        <viz:position x="161.71933" y="-56.821632"></viz:position>
+        <viz:color r="249" g="176" b="170"></viz:color>
+      </node>
+      <node id="6" label="Racing">
+        <attvalues>
+          <attvalue for="count" value="504"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4755244755244755"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5159313725490196"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.808570084885874"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="6.092169325396822"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.9755466422780572"></attvalue>
+          <attvalue for="avg_weight" value="1.5637658730158739"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.0778384715958318"></attvalue>
+        </attvalues>
+        <viz:size value="13.347731"></viz:size>
+        <viz:position x="-258.2753" y="-188.76093"></viz:position>
+        <viz:color r="159" g="206" b="249"></viz:color>
+      </node>
+      <node id="7" label="Sports">
+        <attvalues>
+          <attvalue for="count" value="345"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4689655172413793"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5012254901960783"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.2"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="6.448516695652174"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.11701070216147656"></attvalue>
+          <attvalue for="avg_weight" value="1.7959350724637686"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.6151153739475467"></attvalue>
+        </attvalues>
+        <viz:size value="15.198274"></viz:size>
+        <viz:position x="-233.96985" y="-161.47525"></viz:position>
+        <viz:color r="247" g="238" b="238"></viz:color>
+      </node>
+      <node id="53" label="Medical">
+        <attvalues>
+          <attvalue for="count" value="59"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.44148936170212766"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.47289156626506024"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.16666666666666666"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+          <attvalue for="avg_rating" value="6.489840847457628"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.01744978918380377"></attvalue>
+          <attvalue for="avg_weight" value="1.9473084745762712"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.3134217397634115"></attvalue>
+        </attvalues>
+        <viz:size value="16.40482"></viz:size>
+        <viz:position x="-537.31934" y="-51.487015"></viz:position>
+        <viz:color r="255" g="85" b="132"></viz:color>
+      </node>
+      <node id="32" label="American West">
+        <attvalues>
+          <attvalue for="count" value="179"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4657534246575342"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.49387254901960775"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="avg_rating" value="6.551792402234635"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.13180804393574"></attvalue>
+          <attvalue for="avg_weight" value="2.1190983240223455"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.028962743058824805"></attvalue>
+        </attvalues>
+        <viz:size value="17.774101"></viz:size>
+        <viz:position x="-152.41771" y="84.22406"></viz:position>
+        <viz:color r="248" g="212" b="210"></viz:color>
+      </node>
+      <node id="4" label="Political">
+        <attvalues>
+          <attvalue for="count" value="350"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5354330708661418"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5759803921568627"></attvalue>
+          <attvalue for="betweenesscentrality" value="55.532231227664674"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.65039845714286"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.36937635260925816"></attvalue>
+          <attvalue for="avg_weight" value="2.6673071428571418"></attvalue>
+          <attvalue for="norm_avg_weight" value="1.1215662555513373"></attvalue>
+        </attvalues>
+        <viz:size value="22.14369"></viz:size>
+        <viz:position x="551.6077" y="-215.48311"></viz:position>
+        <viz:color r="249" g="188" b="183"></viz:color>
+      </node>
+      <node id="40" label="City Building">
+        <attvalues>
+          <attvalue for="count" value="390"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5037037037037037"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5416666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.543829678233703"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.7935457948717985"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.7142565016734547"></attvalue>
+          <attvalue for="avg_weight" value="2.4187628205128204"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.6262068409022417"></attvalue>
+        </attvalues>
+        <viz:size value="20.162624"></viz:size>
+        <viz:position x="410.49814" y="-348.63718"></viz:position>
+        <viz:color r="250" g="151" b="144"></viz:color>
+      </node>
+      <node id="79" label="Game System">
+        <attvalues>
+          <attvalue for="count" value="44"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.44623655913978494"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4769076305220884"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+          <attvalue for="avg_rating" value="7.016447499999999"></attvalue>
+          <attvalue for="norm_avg_rating" value="1.2512862118371548"></attvalue>
+          <attvalue for="avg_weight" value="2.032518181818182"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.14359516596101832"></attvalue>
+        </attvalues>
+        <viz:size value="17.083998"></viz:size>
+        <viz:position x="-265.66992" y="-277.95456"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="57" label="Print &amp; Play">
+        <attvalues>
+          <attvalue for="count" value="454"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5190839694656488"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5465686274509804"></attvalue>
+          <attvalue for="betweenesscentrality" value="23.97320783791371"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="6.646580374449342"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.3601775721822464"></attvalue>
+          <attvalue for="avg_weight" value="1.9268958149779742"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.3541050392838708"></attvalue>
+        </attvalues>
+        <viz:size value="16.242119"></viz:size>
+        <viz:position x="35.391945" y="-135.75755"></viz:position>
+        <viz:color r="249" g="188" b="184"></viz:color>
+      </node>
+      <node id="36" label="Puzzle">
+        <attvalues>
+          <attvalue for="count" value="363"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.48226950354609927"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5257352941176471"></attvalue>
+          <attvalue for="betweenesscentrality" value="9.182265730485545"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="6.295094187327829"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.48664648009607336"></attvalue>
+          <attvalue for="avg_weight" value="1.6550327823691455"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.8959396361380777"></attvalue>
+        </attvalues>
+        <viz:size value="14.075188"></viz:size>
+        <viz:position x="-517.09814" y="-48.298595"></viz:position>
+        <viz:color r="214" g="231" b="248"></viz:color>
+      </node>
+      <node id="43" label="Prehistoric">
+        <attvalues>
+          <attvalue for="count" value="113"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4594594594594595"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4889705882352941"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="6.246114336283187"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.6046520161920731"></attvalue>
+          <attvalue for="avg_weight" value="2.0106486725663713"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.18718202885717417"></attvalue>
+        </attvalues>
+        <viz:size value="16.909683"></viz:size>
+        <viz:position x="-309.46082" y="-280.7539"></viz:position>
+        <viz:color r="200" g="225" b="248"></viz:color>
+      </node>
+      <node id="37" label="Territory Building">
+        <attvalues>
+          <attvalue for="count" value="350"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4473684210526316"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5098039215686272"></attvalue>
+          <attvalue for="betweenesscentrality" value="17.81422466422466"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.746719600000005"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.601439698205733"></attvalue>
+          <attvalue for="avg_weight" value="2.547767714285713"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.8833190857664782"></attvalue>
+        </attvalues>
+        <viz:size value="21.19088"></viz:size>
+        <viz:position x="551.69403" y="-288.74426"></viz:position>
+        <viz:color r="249" g="163" b="157"></viz:color>
+      </node>
+      <node id="65" label="Farming">
+        <attvalues>
+          <attvalue for="count" value="163"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4788732394366197"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5134803921568628"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.7219627594627596"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="6.6625595705521485"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.3986757211614284"></attvalue>
+          <attvalue for="avg_weight" value="2.1912036809815953"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.17267178891228824"></attvalue>
+        </attvalues>
+        <viz:size value="18.348827"></viz:size>
+        <viz:position x="-210.82883" y="-367.94247"></viz:position>
+        <viz:color r="249" g="184" b="180"></viz:color>
+      </node>
+      <node id="11" label="Medieval">
+        <attvalues>
+          <attvalue for="count" value="770"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5354330708661418"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5710784313725491"></attvalue>
+          <attvalue for="betweenesscentrality" value="28.950015137940845"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.6514998441558415"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.3720298879333579"></attvalue>
+          <attvalue for="avg_weight" value="2.2985772727272695"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.3866719280191607"></attvalue>
+        </attvalues>
+        <viz:size value="19.204666"></viz:size>
+        <viz:position x="453.76895" y="-259.07742"></viz:position>
+        <viz:color r="249" g="187" b="183"></viz:color>
+      </node>
+      <node id="19" label="Electronic">
+        <attvalues>
+          <attvalue for="count" value="164"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.40476190476190477"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.45710784313725467"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.5404456654456653"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="avg_rating" value="5.694192987804875"></attvalue>
+          <attvalue for="norm_avg_rating" value="-1.934377877355829"></attvalue>
+          <attvalue for="avg_weight" value="1.349851219512195"></attvalue>
+          <attvalue for="norm_avg_weight" value="-1.5041794821044048"></attvalue>
+        </attvalues>
+        <viz:size value="11.642688"></viz:size>
+        <viz:position x="-489.80612" y="19.030832"></viz:position>
+        <viz:color r="51" g="155" b="253"></viz:color>
+      </node>
+      <node id="16" label="Abstract Strategy">
+        <attvalues>
+          <attvalue for="count" value="1078"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4892086330935252"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5220588235294118"></attvalue>
+          <attvalue for="betweenesscentrality" value="9.55789190169995"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="6.326834591836736"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.41017537268981547"></attvalue>
+          <attvalue for="avg_weight" value="1.8898504638218927"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.42793800111159863"></attvalue>
+        </attvalues>
+        <viz:size value="15.946842"></viz:size>
+        <viz:position x="-142.43388" y="-255.7416"></viz:position>
+        <viz:color r="222" g="235" b="247"></viz:color>
+      </node>
+      <node id="59" label="Environmental">
+        <attvalues>
+          <attvalue for="count" value="115"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4788732394366197"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5232843137254902"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.715151515151515"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="6.5567746086956555"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.14381150927575992"></attvalue>
+          <attvalue for="avg_weight" value="2.3455686956521737"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.4803278342738243"></attvalue>
+        </attvalues>
+        <viz:size value="19.57922"></viz:size>
+        <viz:position x="-272.1362" y="-339.87888"></viz:position>
+        <viz:color r="248" g="211" b="209"></viz:color>
+      </node>
+      <node id="54" label="Religious">
+        <attvalues>
+          <attvalue for="count" value="95"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4715909090909091"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.49598393574297184"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.1111111111111111"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="6.370338947368423"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.30536176694102424"></attvalue>
+          <attvalue for="avg_weight" value="2.2682536842105265"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.3262357252685529"></attvalue>
+        </attvalues>
+        <viz:size value="18.962967"></viz:size>
+        <viz:position x="323.756" y="102.40004"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="22" label="Dice">
+        <attvalues>
+          <attvalue for="count" value="1357"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5528455284552846"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6299019607843137"></attvalue>
+          <attvalue for="betweenesscentrality" value="63.18520763392045"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+          <attvalue for="avg_rating" value="6.275916042741351"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.5328517499159264"></attvalue>
+          <attvalue for="avg_weight" value="1.6603563743551955"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.8853294906913151"></attvalue>
+        </attvalues>
+        <viz:size value="14.11762"></viz:size>
+        <viz:position x="-61.562458" y="-147.8834"></viz:position>
+        <viz:color r="208" g="229" b="248"></viz:color>
+      </node>
+      <node id="12" label="Renaissance">
+        <attvalues>
+          <attvalue for="count" value="211"></attvalue>
+          <attvalue for="eccentricity" value="3.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5190839694656488"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5465686274509803"></attvalue>
+          <attvalue for="betweenesscentrality" value="14.945900178253115"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+          <attvalue for="avg_rating" value="6.864715639810432"></attvalue>
+          <attvalue for="norm_avg_rating" value="0.8857236565694095"></attvalue>
+          <attvalue for="avg_weight" value="2.5994431279620867"></attvalue>
+          <attvalue for="norm_avg_weight" value="0.9863103849803712"></attvalue>
+        </attvalues>
+        <viz:size value="21.602768"></viz:size>
+        <viz:position x="623.8391" y="-244.091"></viz:position>
+        <viz:color r="250" g="133" b="125"></viz:color>
+      </node>
+      <node id="60" label="Travel">
+        <attvalues>
+          <attvalue for="count" value="151"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4755244755244755"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.511029411764706"></attvalue>
+          <attvalue for="betweenesscentrality" value="10.851800976800973"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+          <attvalue for="avg_rating" value="6.408901721854307"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.21245374906223952"></attvalue>
+          <attvalue for="avg_weight" value="1.8832569536423833"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.4410791475767343"></attvalue>
+        </attvalues>
+        <viz:size value="15.894287"></viz:size>
+        <viz:position x="144.23686" y="-274.8444"></viz:position>
+        <viz:color r="244" g="246" b="247"></viz:color>
+      </node>
+      <node id="50" label="Arabian">
+        <attvalues>
+          <attvalue for="count" value="69"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.44385026737967914"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4708835341365462"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+          <attvalue for="avg_rating" value="6.206002173913043"></attvalue>
+          <attvalue for="norm_avg_rating" value="-0.7012929230854866"></attvalue>
+          <attvalue for="avg_weight" value="1.9510608695652178"></attvalue>
+          <attvalue for="norm_avg_weight" value="-0.3059430568157409"></attvalue>
+        </attvalues>
+        <viz:size value="16.43473"></viz:size>
+        <viz:position x="173.8882" y="473.70062"></viz:position>
+        <viz:color r="0" g="189" b="148"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="5" target="31" weight="126.99540166659429"></edge>
+      <edge id="1" source="83" target="84" weight="104.16666666666667"></edge>
+      <edge id="2" source="5" target="42" weight="102.26687712481787"></edge>
+      <edge id="3" source="5" target="55" weight="101.86150012658734"></edge>
+      <edge id="4" source="21" target="84" weight="100.13351134846462"></edge>
+      <edge id="5" source="23" target="84" weight="100.0561797752809"></edge>
+      <edge id="6" source="5" target="64" weight="98.71449556233104"></edge>
+      <edge id="7" source="5" target="75" weight="98.1659185884538"></edge>
+      <edge id="8" source="5" target="44" weight="97.39046299655858"></edge>
+      <edge id="9" source="5" target="48" weight="97.28593784931813"></edge>
+      <edge id="10" source="25" target="75" weight="95.47311095983663"></edge>
+      <edge id="11" source="14" target="71" weight="95.11458071014859"></edge>
+      <edge id="12" source="18" target="45" weight="94.4739794176462"></edge>
+      <edge id="13" source="5" target="72" weight="92.79058969199814"></edge>
+      <edge id="14" source="5" target="66" weight="92.73056057866185"></edge>
+      <edge id="15" source="5" target="67" weight="88.90845070422536"></edge>
+      <edge id="16" source="5" target="77" weight="88.34507042253522"></edge>
+      <edge id="17" source="33" target="34" weight="87.67558528428094"></edge>
+      <edge id="18" source="5" target="25" weight="83.26774808140881"></edge>
+      <edge id="19" source="5" target="56" weight="83.00469483568075"></edge>
+      <edge id="20" source="8" target="61" weight="82.92142793870138"></edge>
+      <edge id="21" source="21" target="38" weight="80.33915656682407"></edge>
+      <edge id="22" source="20" target="70" weight="79.3575309030785"></edge>
+      <edge id="23" source="24" target="82" weight="78.86676690270637"></edge>
+      <edge id="24" source="1" target="52" weight="74.54642175455268"></edge>
+      <edge id="25" source="8" target="9" weight="72.59807432163603"></edge>
+      <edge id="26" source="15" target="18" weight="71.95041404706865"></edge>
+      <edge id="27" source="21" target="23" weight="71.89293589955146"></edge>
+      <edge id="28" source="1" target="74" weight="71.7190455303587"></edge>
+      <edge id="29" source="20" target="33" weight="71.43918828712562"></edge>
+      <edge id="30" source="17" target="28" weight="69.85476414419443"></edge>
+      <edge id="31" source="17" target="49" weight="68.12309237343206"></edge>
+      <edge id="32" source="13" target="41" weight="67.65463917525773"></edge>
+      <edge id="33" source="1" target="15" weight="66.74631597549732"></edge>
+      <edge id="34" source="8" target="80" weight="66.54628626459612"></edge>
+      <edge id="35" source="23" target="39" weight="65.6316629399048"></edge>
+      <edge id="36" source="5" target="13" weight="65.10635980833455"></edge>
+      <edge id="37" source="5" target="30" weight="64.24053756501272"></edge>
+      <edge id="38" source="8" target="52" weight="63.35773586907509"></edge>
+      <edge id="39" source="1" target="23" weight="62.669910557670484"></edge>
+      <edge id="40" source="20" target="34" weight="61.84513030470042"></edge>
+      <edge id="41" source="5" target="41" weight="60.90417505030181"></edge>
+      <edge id="42" source="26" target="27" weight="60.5449965651477"></edge>
+      <edge id="43" source="3" target="20" weight="58.969607422326405"></edge>
+      <edge id="44" source="1" target="80" weight="58.15657880060973"></edge>
+      <edge id="45" source="17" target="51" weight="57.15474538505868"></edge>
+      <edge id="46" source="13" target="39" weight="56.0322260720032"></edge>
+      <edge id="47" source="13" target="14" weight="55.74292486506554"></edge>
+      <edge id="48" source="1" target="68" weight="55.030300777038335"></edge>
+      <edge id="49" source="52" target="80" weight="54.44100391134289"></edge>
+      <edge id="50" source="1" target="8" weight="53.56227370128077"></edge>
+      <edge id="51" source="1" target="63" weight="53.15845746005243"></edge>
+      <edge id="52" source="18" target="73" weight="52.14307145000214"></edge>
+      <edge id="53" source="23" target="46" weight="50.843044491599116"></edge>
+      <edge id="54" source="1" target="39" weight="50.06230146645918"></edge>
+      <edge id="55" source="1" target="76" weight="49.85863302904263"></edge>
+      <edge id="56" source="1" target="69" weight="49.637054335698764"></edge>
+      <edge id="57" source="2" target="10" weight="48.21068183722117"></edge>
+      <edge id="58" source="8" target="62" weight="47.875387920744814"></edge>
+      <edge id="59" source="1" target="18" weight="47.69538612357404"></edge>
+      <edge id="60" source="1" target="58" weight="47.63883291846834"></edge>
+      <edge id="61" source="47" target="61" weight="47.57878362103573"></edge>
+      <edge id="62" source="23" target="38" weight="46.571644102116174"></edge>
+      <edge id="63" source="1" target="49" weight="46.48740544246743"></edge>
+      <edge id="64" source="1" target="29" weight="46.113695344992664"></edge>
+      <edge id="65" source="63" target="81" weight="45.95959595959596"></edge>
+      <edge id="66" source="23" target="74" weight="45.56601935441969"></edge>
+      <edge id="67" source="23" target="35" weight="45.55339290453862"></edge>
+      <edge id="68" source="1" target="24" weight="45.35869074313243"></edge>
+      <edge id="69" source="13" target="23" weight="45.336209892273835"></edge>
+      <edge id="70" source="21" target="39" weight="44.730160445140726"></edge>
+      <edge id="71" source="1" target="78" weight="44.613719247929886"></edge>
+      <edge id="72" source="6" target="7" weight="44.18859649122807"></edge>
+      <edge id="73" source="23" target="78" weight="44.12387408301606"></edge>
+      <edge id="74" source="1" target="53" weight="43.95205048469318"></edge>
+      <edge id="75" source="39" target="74" weight="43.84805945499587"></edge>
+      <edge id="76" source="1" target="32" weight="43.75750446087953"></edge>
+      <edge id="77" source="3" target="4" weight="43.39931573802542"></edge>
+      <edge id="78" source="32" target="77" weight="43.160377358490564"></edge>
+      <edge id="79" source="14" target="47" weight="43.035131922752015"></edge>
+      <edge id="80" source="20" target="40" weight="42.81895357938467"></edge>
+      <edge id="81" source="1" target="27" weight="42.31018498176546"></edge>
+      <edge id="82" source="5" target="83" weight="42.0690811535882"></edge>
+      <edge id="83" source="1" target="83" weight="41.908329305622686"></edge>
+      <edge id="84" source="1" target="79" weight="41.87424112037157"></edge>
+      <edge id="85" source="1" target="57" weight="41.8022781660217"></edge>
+      <edge id="86" source="29" target="36" weight="41.541389036754225"></edge>
+      <edge id="87" source="1" target="81" weight="41.37069095986447"></edge>
+      <edge id="88" source="44" target="72" weight="41.193778898696934"></edge>
+      <edge id="89" source="58" target="81" weight="40.90232079508219"></edge>
+      <edge id="90" source="2" target="78" weight="40.5953916463638"></edge>
+      <edge id="91" source="14" target="39" weight="40.57969688443805"></edge>
+      <edge id="92" source="2" target="5" weight="40.52802363312825"></edge>
+      <edge id="93" source="15" target="73" weight="39.91456414363903"></edge>
+      <edge id="94" source="30" target="31" weight="39.68824940047961"></edge>
+      <edge id="95" source="48" target="72" weight="39.65811965811966"></edge>
+      <edge id="96" source="1" target="82" weight="39.41646337452561"></edge>
+      <edge id="97" source="8" target="28" weight="39.232006381161696"></edge>
+      <edge id="98" source="8" target="18" weight="39.10481591418699"></edge>
+      <edge id="99" source="1" target="9" weight="38.856976677507355"></edge>
+      <edge id="100" source="58" target="61" weight="38.8038089938793"></edge>
+      <edge id="101" source="1" target="43" weight="38.64925380495359"></edge>
+      <edge id="102" source="1" target="7" weight="38.624402556253685"></edge>
+      <edge id="103" source="28" target="29" weight="38.59002181955055"></edge>
+      <edge id="104" source="39" target="69" weight="38.49062719464102"></edge>
+      <edge id="105" source="1" target="73" weight="38.30535905209661"></edge>
+      <edge id="106" source="8" target="15" weight="38.24102224704073"></edge>
+      <edge id="107" source="4" target="5" weight="38.103164441192604"></edge>
+      <edge id="108" source="5" target="26" weight="37.97698026952648"></edge>
+      <edge id="109" source="43" target="49" weight="37.51067869008068"></edge>
+      <edge id="110" source="1" target="46" weight="37.381544156926594"></edge>
+      <edge id="111" source="1" target="14" weight="37.04775280522795"></edge>
+      <edge id="112" source="23" target="76" weight="36.796434034921134"></edge>
+      <edge id="113" source="15" target="68" weight="36.270997724742216"></edge>
+      <edge id="114" source="10" target="37" weight="36.168975299410086"></edge>
+      <edge id="115" source="44" target="48" weight="35.99271402550091"></edge>
+      <edge id="116" source="1" target="45" weight="35.65761999204775"></edge>
+      <edge id="117" source="20" target="65" weight="35.37495735243944"></edge>
+      <edge id="118" source="25" target="77" weight="35.36135693215339"></edge>
+      <edge id="119" source="11" target="23" weight="35.12620778648538"></edge>
+      <edge id="120" source="38" target="39" weight="34.999401831853476"></edge>
+      <edge id="121" source="24" target="45" weight="34.87644351126544"></edge>
+      <edge id="122" source="1" target="51" weight="34.81277973786432"></edge>
+      <edge id="123" source="24" target="39" weight="34.78682432889767"></edge>
+      <edge id="124" source="1" target="62" weight="34.381630362657795"></edge>
+      <edge id="125" source="15" target="45" weight="34.35635077363772"></edge>
+      <edge id="126" source="8" target="19" weight="34.26889841464245"></edge>
+      <edge id="127" source="66" target="67" weight="33.892405063291136"></edge>
+      <edge id="128" source="3" target="68" weight="33.81336405529954"></edge>
+      <edge id="129" source="16" target="79" weight="33.807478624059264"></edge>
+      <edge id="130" source="8" target="45" weight="33.680627828272314"></edge>
+      <edge id="131" source="39" target="76" weight="33.675657025001655"></edge>
+      <edge id="132" source="49" target="65" weight="33.66666666666667"></edge>
+      <edge id="133" source="1" target="11" weight="33.66556869243589"></edge>
+      <edge id="134" source="49" target="59" weight="33.3014950166113"></edge>
+      <edge id="135" source="1" target="4" weight="33.046853259516375"></edge>
+      <edge id="136" source="39" target="82" weight="33.04032561480316"></edge>
+      <edge id="137" source="1" target="54" weight="32.983052432997084"></edge>
+      <edge id="138" source="18" target="51" weight="32.90715171903291"></edge>
+      <edge id="139" source="1" target="47" weight="32.843302345670125"></edge>
+      <edge id="140" source="13" target="21" weight="32.79716598075785"></edge>
+      <edge id="141" source="3" target="15" weight="32.733231490692056"></edge>
+      <edge id="142" source="11" target="40" weight="32.563025210084035"></edge>
+      <edge id="143" source="8" target="29" weight="32.54288647668032"></edge>
+      <edge id="144" source="22" target="23" weight="32.288408573252894"></edge>
+      <edge id="145" source="46" target="47" weight="31.86548975693301"></edge>
+      <edge id="146" source="5" target="14" weight="31.818612506061296"></edge>
+      <edge id="147" source="17" target="19" weight="31.760640787626023"></edge>
+      <edge id="148" source="6" target="17" weight="31.61311407222544"></edge>
+      <edge id="149" source="1" target="40" weight="31.19182327353367"></edge>
+      <edge id="150" source="19" target="28" weight="31.144508869427572"></edge>
+      <edge id="151" source="61" target="62" weight="30.892228973456987"></edge>
+      <edge id="152" source="35" target="38" weight="30.85056064105061"></edge>
+      <edge id="153" source="22" target="39" weight="30.80050064121017"></edge>
+      <edge id="154" source="16" target="36" weight="30.582002206775826"></edge>
+      <edge id="155" source="10" target="20" weight="30.354274802674965"></edge>
+      <edge id="156" source="58" target="59" weight="30.18479509766373"></edge>
+      <edge id="157" source="1" target="17" weight="29.93107396841156"></edge>
+      <edge id="158" source="17" target="58" weight="29.632723665362885"></edge>
+      <edge id="159" source="12" target="20" weight="29.4179746740476"></edge>
+      <edge id="160" source="14" target="74" weight="29.364215223181166"></edge>
+      <edge id="161" source="47" target="74" weight="29.117728446685526"></edge>
+      <edge id="162" source="10" target="40" weight="28.95373169030458"></edge>
+      <edge id="163" source="55" target="66" weight="28.92111660658899"></edge>
+      <edge id="164" source="1" target="3" weight="28.448175057297433"></edge>
+      <edge id="165" source="6" target="49" weight="28.18849449204406"></edge>
+      <edge id="166" source="5" target="11" weight="28.126405491774175"></edge>
+      <edge id="167" source="1" target="30" weight="28.083174504743578"></edge>
+      <edge id="168" source="18" target="24" weight="28.05522062744916"></edge>
+      <edge id="169" source="13" target="24" weight="28.037857022139598"></edge>
+      <edge id="170" source="10" target="71" weight="27.9397233201581"></edge>
+      <edge id="171" source="21" target="46" weight="27.915858916119326"></edge>
+      <edge id="172" source="17" target="47" weight="27.85954924604104"></edge>
+      <edge id="173" source="28" target="49" weight="27.26180506345423"></edge>
+      <edge id="174" source="13" target="74" weight="27.16241582742387"></edge>
+      <edge id="175" source="21" target="24" weight="27.074350500120378"></edge>
+      <edge id="176" source="9" target="61" weight="27.017109050207864"></edge>
+      <edge id="177" source="20" target="59" weight="26.87070478140079"></edge>
+      <edge id="178" source="11" target="54" weight="26.737146471491823"></edge>
+      <edge id="179" source="22" target="57" weight="26.669600491979935"></edge>
+      <edge id="180" source="2" target="54" weight="26.626887935856793"></edge>
+      <edge id="181" source="34" target="60" weight="26.62207357859532"></edge>
+      <edge id="182" source="1" target="59" weight="26.593678795829597"></edge>
+      <edge id="183" source="1" target="22" weight="26.483089149531985"></edge>
+      <edge id="184" source="14" target="41" weight="26.477377654662973"></edge>
+      <edge id="185" source="20" target="37" weight="26.172538966807135"></edge>
+      <edge id="186" source="30" target="64" weight="26.09098275263341"></edge>
+      <edge id="187" source="4" target="20" weight="25.944604695884124"></edge>
+      <edge id="188" source="19" target="47" weight="25.63928901810493"></edge>
+      <edge id="189" source="11" target="37" weight="25.540666717137302"></edge>
+      <edge id="190" source="23" target="83" weight="25.337078651685392"></edge>
+      <edge id="191" source="1" target="12" weight="25.195417772705532"></edge>
+      <edge id="192" source="1" target="2" weight="25.153960985685565"></edge>
+      <edge id="193" source="1" target="21" weight="24.75538514055473"></edge>
+      <edge id="194" source="17" target="22" weight="24.576288836748663"></edge>
+      <edge id="195" source="37" target="40" weight="24.371135841724076"></edge>
+      <edge id="196" source="75" target="77" weight="24.358974358974358"></edge>
+      <edge id="197" source="23" target="24" weight="24.28209615030392"></edge>
+      <edge id="198" source="23" target="41" weight="24.28019662921348"></edge>
+      <edge id="199" source="5" target="12" weight="24.243471298998173"></edge>
+      <edge id="200" source="69" target="74" weight="24.201825941332178"></edge>
+      <edge id="201" source="17" target="81" weight="24.08505033399191"></edge>
+      <edge id="202" source="21" target="35" weight="23.943736004961995"></edge>
+      <edge id="203" source="39" target="78" weight="23.79837713521371"></edge>
+      <edge id="204" source="1" target="16" weight="23.771795510462546"></edge>
+      <edge id="205" source="1" target="71" weight="23.693923283096797"></edge>
+      <edge id="206" source="39" target="52" weight="23.563573318031043"></edge>
+      <edge id="207" source="4" target="66" weight="23.532796317606447"></edge>
+      <edge id="208" source="23" target="52" weight="23.50623690725576"></edge>
+      <edge id="209" source="13" target="30" weight="23.49170070673669"></edge>
+      <edge id="210" source="1" target="65" weight="23.488319639117123"></edge>
+      <edge id="211" source="34" target="70" weight="23.333333333333336"></edge>
+      <edge id="212" source="49" target="51" weight="23.166676189932005"></edge>
+      <edge id="213" source="1" target="36" weight="23.11395194326012"></edge>
+      <edge id="214" source="22" target="81" weight="22.99329169558177"></edge>
+      <edge id="215" source="1" target="28" weight="22.93652908185602"></edge>
+      <edge id="216" source="4" target="44" weight="22.93591654247392"></edge>
+      <edge id="217" source="17" target="29" weight="22.868093720280953"></edge>
+      <edge id="218" source="8" target="58" weight="22.85868922201664"></edge>
+      <edge id="219" source="6" target="22" weight="22.80869157626892"></edge>
+      <edge id="220" source="3" target="10" weight="22.681053168430445"></edge>
+      <edge id="221" source="17" target="35" weight="22.67396507697334"></edge>
+      <edge id="222" source="22" target="69" weight="22.636401829524463"></edge>
+      <edge id="223" source="9" target="29" weight="22.603188311921983"></edge>
+      <edge id="224" source="38" target="60" weight="22.532903159727557"></edge>
+      <edge id="225" source="1" target="38" weight="22.494607422031777"></edge>
+      <edge id="226" source="21" target="22" weight="22.487886025019506"></edge>
+      <edge id="227" source="52" target="69" weight="22.35565499762395"></edge>
+      <edge id="228" source="19" target="61" weight="22.28114379467948"></edge>
+      <edge id="229" source="26" target="34" weight="22.27765936833947"></edge>
+      <edge id="230" source="15" target="52" weight="22.254629283954305"></edge>
+      <edge id="231" source="17" target="46" weight="22.079205584814254"></edge>
+      <edge id="232" source="24" target="52" weight="22.07036676854682"></edge>
+      <edge id="233" source="21" target="27" weight="22.028866771857427"></edge>
+      <edge id="234" source="23" target="47" weight="21.942385847477887"></edge>
+      <edge id="235" source="52" target="53" weight="21.919971218420212"></edge>
+      <edge id="236" source="16" target="57" weight="21.84698157746741"></edge>
+      <edge id="237" source="22" target="49" weight="21.71844487839517"></edge>
+      <edge id="238" source="16" target="37" weight="21.7070058750188"></edge>
+      <edge id="239" source="13" target="82" weight="21.617458671384128"></edge>
+      <edge id="240" source="24" target="46" weight="21.609653352281377"></edge>
+      <edge id="241" source="26" target="31" weight="21.564008239252423"></edge>
+      <edge id="242" source="53" target="58" weight="21.54888967575497"></edge>
+      <edge id="243" source="13" target="83" weight="21.47766323024055"></edge>
+      <edge id="244" source="21" target="60" weight="21.453725740600994"></edge>
+      <edge id="245" source="1" target="10" weight="21.390582225474105"></edge>
+      <edge id="246" source="1" target="20" weight="21.381949161304494"></edge>
+      <edge id="247" source="4" target="11" weight="21.268143621084796"></edge>
+      <edge id="248" source="20" target="26" weight="21.254598846517766"></edge>
+      <edge id="249" source="42" target="75" weight="21.187002652519894"></edge>
+      <edge id="250" source="1" target="6" weight="21.181412327338407"></edge>
+      <edge id="251" source="12" target="67" weight="21.164921465968586"></edge>
+      <edge id="252" source="1" target="77" weight="20.954164652811343"></edge>
+      <edge id="253" source="19" target="29" weight="20.83580593688597"></edge>
+      <edge id="254" source="1" target="50" weight="20.626661430642823"></edge>
+      <edge id="255" source="1" target="70" weight="20.405497515212353"></edge>
+      <edge id="256" source="14" target="73" weight="20.397884663812643"></edge>
+      <edge id="257" source="14" target="22" weight="20.372680730888426"></edge>
+      <edge id="258" source="49" target="52" weight="20.221225857311786"></edge>
+      <edge id="259" source="13" target="38" weight="20.165932024334268"></edge>
+      <edge id="260" source="45" target="46" weight="20.055209016455947"></edge>
+      <edge id="261" source="20" target="50" weight="19.978249744114635"></edge>
+      <edge id="262" source="11" target="39" weight="19.81428409514095"></edge>
+      <edge id="263" source="22" target="74" weight="19.813254104830683"></edge>
+      <edge id="264" source="14" target="57" weight="19.786132386632353"></edge>
+      <edge id="265" source="45" target="52" weight="19.751920347332387"></edge>
+      <edge id="266" source="23" target="57" weight="19.7315578365181"></edge>
+      <edge id="267" source="22" target="82" weight="19.61947493362643"></edge>
+      <edge id="268" source="58" target="63" weight="19.48777317410025"></edge>
+      <edge id="269" source="8" target="51" weight="19.436850422765914"></edge>
+      <edge id="270" source="11" target="12" weight="19.24487072315837"></edge>
+      <edge id="271" source="43" target="59" weight="19.132653061224488"></edge>
+      <edge id="272" source="24" target="38" weight="19.079823900828362"></edge>
+      <edge id="273" source="4" target="12" weight="19.011581786450897"></edge>
+      <edge id="274" source="8" target="47" weight="19.01033862750974"></edge>
+      <edge id="275" source="17" target="27" weight="19.001937238601084"></edge>
+      <edge id="276" source="1" target="61" weight="18.9811183964544"></edge>
+      <edge id="277" source="39" target="47" weight="18.968849377163238"></edge>
+      <edge id="278" source="26" target="38" weight="18.856975015798703"></edge>
+      <edge id="279" source="20" target="71" weight="18.775006978691728"></edge>
+      <edge id="280" source="14" target="21" weight="18.74533850612759"></edge>
+      <edge id="281" source="11" target="41" weight="18.7281162464986"></edge>
+      <edge id="282" source="18" target="68" weight="18.605157219018604"></edge>
+      <edge id="283" source="5" target="57" weight="18.599936648717136"></edge>
+      <edge id="284" source="4" target="15" weight="18.59231077292751"></edge>
+      <edge id="285" source="10" target="14" weight="18.528534775674363"></edge>
+      <edge id="286" source="32" target="39" weight="18.499187219876497"></edge>
+      <edge id="287" source="2" target="40" weight="18.49824322792701"></edge>
+      <edge id="288" source="3" target="47" weight="18.402539464653398"></edge>
+      <edge id="289" source="1" target="33" weight="18.357954903650157"></edge>
+      <edge id="290" source="35" target="36" weight="18.284962218339423"></edge>
+      <edge id="291" source="59" target="70" weight="18.273809523809526"></edge>
+      <edge id="292" source="35" target="39" weight="18.269537117108918"></edge>
+      <edge id="293" source="9" target="52" weight="18.241525423728813"></edge>
+      <edge id="294" source="2" target="37" weight="18.24020552344252"></edge>
+      <edge id="295" source="74" target="76" weight="18.204021818773917"></edge>
+      <edge id="296" source="26" target="64" weight="18.17310812690269"></edge>
+      <edge id="297" source="15" target="51" weight="18.147452618818257"></edge>
+      <edge id="298" source="52" target="82" weight="18.13885267275098"></edge>
+      <edge id="299" source="14" target="37" weight="18.06127457096986"></edge>
+      <edge id="300" source="16" target="49" weight="18.05894728932637"></edge>
+      <edge id="301" source="21" target="78" weight="18.042238135696078"></edge>
+      <edge id="302" source="11" target="20" weight="17.9383524136369"></edge>
+      <edge id="303" source="13" target="31" weight="17.911444040643772"></edge>
+      <edge id="304" source="38" target="71" weight="17.876646321876002"></edge>
+      <edge id="305" source="12" target="26" weight="17.835335698366016"></edge>
+      <edge id="306" source="14" target="24" weight="17.835248172199265"></edge>
+      <edge id="307" source="10" target="38" weight="17.729996228997614"></edge>
+      <edge id="308" source="1" target="26" weight="17.667547690326067"></edge>
+      <edge id="309" source="22" target="79" weight="17.66689422619417"></edge>
+      <edge id="310" source="30" target="44" weight="17.630683575626353"></edge>
+      <edge id="311" source="18" target="46" weight="17.590569317878273"></edge>
+      <edge id="312" source="8" target="73" weight="17.55228339735382"></edge>
+      <edge id="313" source="2" target="41" weight="17.55178227360308"></edge>
+      <edge id="314" source="45" target="73" weight="17.502612330198538"></edge>
+      <edge id="315" source="22" target="35" weight="17.444384337454"></edge>
+      <edge id="316" source="15" target="49" weight="17.43366458354677"></edge>
+      <edge id="317" source="37" target="71" weight="17.36964236964237"></edge>
+      <edge id="318" source="5" target="37" weight="17.367629198615113"></edge>
+      <edge id="319" source="15" target="61" weight="17.299060759704098"></edge>
+      <edge id="320" source="7" target="22" weight="17.281594571670908"></edge>
+      <edge id="321" source="1" target="60" weight="17.222490736265506"></edge>
+      <edge id="322" source="8" target="36" weight="17.22228987115134"></edge>
+      <edge id="323" source="14" target="38" weight="17.21693111335154"></edge>
+      <edge id="324" source="13" target="77" weight="17.182130584192436"></edge>
+      <edge id="325" source="31" target="83" weight="17.1462829736211"></edge>
+      <edge id="326" source="6" target="35" weight="17.11389694709214"></edge>
+      <edge id="327" source="58" target="60" weight="16.876481330380386"></edge>
+      <edge id="328" source="2" target="4" weight="16.854090033280784"></edge>
+      <edge id="329" source="17" target="63" weight="16.844995253123958"></edge>
+      <edge id="330" source="4" target="67" weight="16.818181818181817"></edge>
+      <edge id="331" source="15" target="23" weight="16.79750532099193"></edge>
+      <edge id="332" source="2" target="39" weight="16.79053124139829"></edge>
+      <edge id="333" source="22" target="28" weight="16.749134789565314"></edge>
+      <edge id="334" source="39" target="57" weight="16.736823024712493"></edge>
+      <edge id="335" source="11" target="78" weight="16.598374887144942"></edge>
+      <edge id="336" source="15" target="39" weight="16.57293459004645"></edge>
+      <edge id="337" source="4" target="54" weight="16.53958944281525"></edge>
+      <edge id="338" source="7" target="28" weight="16.514696829793785"></edge>
+      <edge id="339" source="22" target="78" weight="16.4353458246588"></edge>
+      <edge id="340" source="9" target="58" weight="16.39114827100468"></edge>
+      <edge id="341" source="15" target="24" weight="16.382609951614068"></edge>
+      <edge id="342" source="12" target="40" weight="16.353557129658146"></edge>
+      <edge id="343" source="18" target="36" weight="16.325831842138516"></edge>
+      <edge id="344" source="8" target="81" weight="16.325224071702944"></edge>
+      <edge id="345" source="39" target="71" weight="16.268955033405902"></edge>
+      <edge id="346" source="15" target="32" weight="16.25938547640817"></edge>
+      <edge id="347" source="3" target="8" weight="16.231889545156243"></edge>
+      <edge id="348" source="22" target="27" weight="16.226193230010026"></edge>
+      <edge id="349" source="52" target="62" weight="16.20762711864407"></edge>
+      <edge id="350" source="13" target="44" weight="16.207537603515295"></edge>
+      <edge id="351" source="47" target="69" weight="16.207247961821437"></edge>
+      <edge id="352" source="49" target="58" weight="16.143774549535507"></edge>
+      <edge id="353" source="13" target="69" weight="16.09620387320551"></edge>
+      <edge id="354" source="2" target="66" weight="16.043511133874784"></edge>
+      <edge id="355" source="22" target="63" weight="16.005474593260853"></edge>
+      <edge id="356" source="13" target="47" weight="15.710682167141918"></edge>
+      <edge id="357" source="4" target="37" weight="15.686595686595686"></edge>
+      <edge id="358" source="36" target="63" weight="15.686402934241551"></edge>
+      <edge id="359" source="31" target="72" weight="15.624423538092604"></edge>
+      <edge id="360" source="59" target="65" weight="15.595238095238095"></edge>
+      <edge id="361" source="3" target="14" weight="15.57929735203884"></edge>
+      <edge id="362" source="4" target="10" weight="15.36231884057971"></edge>
+      <edge id="363" source="18" target="52" weight="15.337244983578262"></edge>
+      <edge id="364" source="8" target="68" weight="15.302928683210371"></edge>
+      <edge id="365" source="34" target="71" weight="15.244755244755247"></edge>
+      <edge id="366" source="27" target="39" weight="15.225020644095789"></edge>
+      <edge id="367" source="14" target="76" weight="15.169131130271936"></edge>
+      <edge id="368" source="28" target="52" weight="15.155054227898024"></edge>
+      <edge id="369" source="31" target="41" weight="15.141636690647482"></edge>
+      <edge id="370" source="23" target="40" weight="15.062789160608062"></edge>
+      <edge id="371" source="52" target="61" weight="15.038375439718582"></edge>
+      <edge id="372" source="16" target="22" weight="15.028480366565677"></edge>
+      <edge id="373" source="17" target="65" weight="15.02681343494214"></edge>
+      <edge id="374" source="28" target="36" weight="14.934100760774985"></edge>
+      <edge id="375" source="17" target="36" weight="14.914337724831444"></edge>
+      <edge id="376" source="39" target="46" weight="14.902608442220817"></edge>
+      <edge id="377" source="5" target="79" weight="14.875595033616332"></edge>
+      <edge id="378" source="32" target="40" weight="14.768775434702185"></edge>
+      <edge id="379" source="11" target="15" weight="14.761102678957045"></edge>
+      <edge id="380" source="16" target="63" weight="14.70602633769031"></edge>
+      <edge id="381" source="3" target="11" weight="14.691763802295112"></edge>
+      <edge id="382" source="28" target="51" weight="14.599767231346178"></edge>
+      <edge id="383" source="55" target="77" weight="14.486754966887418"></edge>
+      <edge id="384" source="5" target="50" weight="14.424673038229376"></edge>
+      <edge id="385" source="3" target="18" weight="14.40833599488981"></edge>
+      <edge id="386" source="30" target="83" weight="14.38679245283019"></edge>
+      <edge id="387" source="5" target="10" weight="14.371446067710611"></edge>
+      <edge id="388" source="13" target="75" weight="14.363600317208565"></edge>
+      <edge id="389" source="10" target="39" weight="14.334999004513957"></edge>
+      <edge id="390" source="16" target="35" weight="14.234286949995548"></edge>
+      <edge id="391" source="21" target="57" weight="14.209633539471698"></edge>
+      <edge id="392" source="1" target="66" weight="14.18987953576301"></edge>
+      <edge id="393" source="65" target="70" weight="14.153846153846153"></edge>
+      <edge id="394" source="16" target="81" weight="14.059822783570764"></edge>
+      <edge id="395" source="3" target="37" weight="14.053569698730989"></edge>
+      <edge id="396" source="5" target="32" weight="14.052617592346532"></edge>
+      <edge id="397" source="24" target="80" weight="13.997477931904161"></edge>
+      <edge id="398" source="49" target="63" weight="13.98167723749119"></edge>
+      <edge id="399" source="22" target="29" weight="13.965197754763565"></edge>
+      <edge id="400" source="33" target="60" weight="13.91304347826087"></edge>
+      <edge id="401" source="23" target="37" weight="13.902722947666767"></edge>
+      <edge id="402" source="53" target="59" weight="13.898247978436657"></edge>
+      <edge id="403" source="21" target="76" weight="13.868883080413948"></edge>
+      <edge id="404" source="1" target="37" weight="13.627595696227885"></edge>
+      <edge id="405" source="11" target="50" weight="13.620448179271708"></edge>
+      <edge id="406" source="23" target="69" weight="13.610206867583745"></edge>
+      <edge id="407" source="38" target="57" weight="13.545869798563068"></edge>
+      <edge id="408" source="25" target="67" weight="13.539823008849558"></edge>
+      <edge id="409" source="37" target="65" weight="13.537537537537538"></edge>
+      <edge id="410" source="49" target="81" weight="13.516560958421424"></edge>
+      <edge id="411" source="5" target="74" weight="13.499610379037229"></edge>
+      <edge id="412" source="16" target="51" weight="13.439287429594376"></edge>
+      <edge id="413" source="15" target="50" weight="13.381057268722467"></edge>
+      <edge id="414" source="12" target="38" weight="13.30453443842155"></edge>
+      <edge id="415" source="17" target="43" weight="13.260986020148957"></edge>
+      <edge id="416" source="4" target="56" weight="13.232323232323232"></edge>
+      <edge id="417" source="20" target="68" weight="13.213807686683838"></edge>
+      <edge id="418" source="18" target="47" weight="13.172229077011044"></edge>
+      <edge id="419" source="38" target="43" weight="13.16795269344487"></edge>
+      <edge id="420" source="3" target="23" weight="13.147426603841971"></edge>
+      <edge id="421" source="39" target="68" weight="12.996252302610683"></edge>
+      <edge id="422" source="16" target="83" weight="12.98465266558966"></edge>
+      <edge id="423" source="36" target="81" weight="12.982854481413558"></edge>
+      <edge id="424" source="23" target="82" weight="12.957915032245197"></edge>
+      <edge id="425" source="55" target="75" weight="12.926642893530312"></edge>
+      <edge id="426" source="3" target="52" weight="12.91689447785675"></edge>
+      <edge id="427" source="40" target="70" weight="12.911010558069382"></edge>
+      <edge id="428" source="14" target="69" weight="12.871393929979893"></edge>
+      <edge id="429" source="47" target="62" weight="12.795257843490804"></edge>
+      <edge id="430" source="12" target="54" weight="12.79063221302708"></edge>
+      <edge id="431" source="5" target="71" weight="12.776888604353394"></edge>
+      <edge id="432" source="27" target="38" weight="12.775725452403897"></edge>
+      <edge id="433" source="29" target="52" weight="12.729857137716362"></edge>
+      <edge id="434" source="1" target="25" weight="12.727708225511876"></edge>
+      <edge id="435" source="2" target="20" weight="12.686392026237371"></edge>
+      <edge id="436" source="44" target="66" weight="12.685896105692743"></edge>
+      <edge id="437" source="18" target="81" weight="12.666980983812667"></edge>
+      <edge id="438" source="51" target="52" weight="12.658768167242743"></edge>
+      <edge id="439" source="2" target="11" weight="12.64390149123233"></edge>
+      <edge id="440" source="13" target="64" weight="12.620169502245272"></edge>
+      <edge id="441" source="15" target="46" weight="12.591890454303678"></edge>
+      <edge id="442" source="51" target="81" weight="12.558012558012557"></edge>
+      <edge id="443" source="32" target="52" weight="12.492671356998189"></edge>
+      <edge id="444" source="29" target="49" weight="12.486545203179777"></edge>
+      <edge id="445" source="3" target="73" weight="12.469452590420332"></edge>
+      <edge id="446" source="17" target="26" weight="12.452837432308785"></edge>
+      <edge id="447" source="52" target="57" weight="12.451144349656131"></edge>
+      <edge id="448" source="22" target="71" weight="12.406989744776004"></edge>
+      <edge id="449" source="24" target="74" weight="12.348384345683693"></edge>
+      <edge id="450" source="14" target="82" weight="12.312937435460343"></edge>
+      <edge id="451" source="2" target="50" weight="12.286247591522159"></edge>
+      <edge id="452" source="6" target="60" weight="12.27116704805492"></edge>
+      <edge id="453" source="5" target="54" weight="12.270612924860995"></edge>
+      <edge id="454" source="15" target="27" weight="12.223000934454678"></edge>
+      <edge id="455" source="18" target="19" weight="12.200971649960026"></edge>
+      <edge id="456" source="37" target="70" weight="12.196812196812196"></edge>
+      <edge id="457" source="22" target="32" weight="12.133723814553427"></edge>
+      <edge id="458" source="39" target="43" weight="12.132830010616964"></edge>
+      <edge id="459" source="10" target="78" weight="12.127200862378729"></edge>
+      <edge id="460" source="22" target="40" weight="12.125929252107968"></edge>
+      <edge id="461" source="16" target="18" weight="12.119744169201134"></edge>
+      <edge id="462" source="52" target="73" weight="12.089111453518232"></edge>
+      <edge id="463" source="32" target="37" weight="12.080004532834721"></edge>
+      <edge id="464" source="16" target="50" weight="12.068356219709209"></edge>
+      <edge id="465" source="51" target="61" weight="12.038732557600483"></edge>
+      <edge id="466" source="10" target="12" weight="11.944622643461706"></edge>
+      <edge id="467" source="37" target="59" weight="11.931574431574433"></edge>
+      <edge id="468" source="21" target="71" weight="11.92878383298944"></edge>
+      <edge id="469" source="9" target="36" weight="11.916182288868265"></edge>
+      <edge id="470" source="54" target="78" weight="11.907935661601352"></edge>
+      <edge id="471" source="21" target="41" weight="11.872079439252337"></edge>
+      <edge id="472" source="72" target="77" weight="11.858974358974358"></edge>
+      <edge id="473" source="57" target="80" weight="11.832679515606346"></edge>
+      <edge id="474" source="22" target="46" weight="11.832454958680941"></edge>
+      <edge id="475" source="22" target="53" weight="11.829660569398436"></edge>
+      <edge id="476" source="45" target="51" weight="11.81297733021871"></edge>
+      <edge id="477" source="8" target="53" weight="11.790238285056251"></edge>
+      <edge id="478" source="13" target="48" weight="11.755441008018327"></edge>
+      <edge id="479" source="15" target="58" weight="11.725088873404117"></edge>
+      <edge id="480" source="26" target="60" weight="11.71832219910196"></edge>
+      <edge id="481" source="31" target="48" weight="11.710631494804156"></edge>
+      <edge id="482" source="32" target="33" weight="11.700847689362867"></edge>
+      <edge id="483" source="7" target="39" weight="11.604562345169281"></edge>
+      <edge id="484" source="3" target="12" weight="11.602769802398242"></edge>
+      <edge id="485" source="19" target="62" weight="11.58016633329824"></edge>
+      <edge id="486" source="2" target="13" weight="11.575591442703058"></edge>
+      <edge id="487" source="22" target="36" weight="11.563064483406784"></edge>
+      <edge id="488" source="21" target="26" weight="11.562015516910877"></edge>
+      <edge id="489" source="3" target="71" weight="11.54692082111437"></edge>
+      <edge id="490" source="40" target="65" weight="11.529411764705882"></edge>
+      <edge id="491" source="23" target="51" weight="11.471440797283492"></edge>
+      <edge id="492" source="14" target="34" weight="11.446835712763692"></edge>
+      <edge id="493" source="4" target="58" weight="11.422536355512227"></edge>
+      <edge id="494" source="30" target="48" weight="11.40461215932914"></edge>
+      <edge id="495" source="23" target="50" weight="11.330758426966293"></edge>
+      <edge id="496" source="10" target="43" weight="11.325320642090828"></edge>
+      <edge id="497" source="12" target="25" weight="11.268127693091785"></edge>
+      <edge id="498" source="38" target="78" weight="11.208130128785445"></edge>
+      <edge id="499" source="13" target="42" weight="11.19800924280128"></edge>
+      <edge id="500" source="4" target="50" weight="11.193181818181818"></edge>
+      <edge id="501" source="45" target="68" weight="11.140583554376658"></edge>
+      <edge id="502" source="68" target="73" weight="11.13886113886114"></edge>
+      <edge id="503" source="24" target="78" weight="11.126541119089554"></edge>
+      <edge id="504" source="36" target="58" weight="11.125619055713083"></edge>
+      <edge id="505" source="22" target="76" weight="11.086024202893356"></edge>
+      <edge id="506" source="22" target="43" weight="11.052258053348565"></edge>
+      <edge id="507" source="20" target="32" weight="10.96927444429424"></edge>
+      <edge id="508" source="23" target="60" weight="10.931444390164469"></edge>
+      <edge id="509" source="26" target="75" weight="10.874830459213332"></edge>
+      <edge id="510" source="66" target="77" weight="10.864978902953585"></edge>
+      <edge id="511" source="52" target="68" weight="10.843499720618365"></edge>
+      <edge id="512" source="1" target="64" weight="10.840274338985965"></edge>
+      <edge id="513" source="20" target="62" weight="10.783616397481047"></edge>
+      <edge id="514" source="46" target="74" weight="10.77506755668498"></edge>
+      <edge id="515" source="13" target="76" weight="10.770291854218092"></edge>
+      <edge id="516" source="4" target="59" weight="10.762987012987013"></edge>
+      <edge id="517" source="54" target="67" weight="10.725806451612904"></edge>
+      <edge id="518" source="3" target="70" weight="10.71650124069479"></edge>
+      <edge id="519" source="47" target="73" weight="10.686653771760156"></edge>
+      <edge id="520" source="34" target="38" weight="10.664582767056267"></edge>
+      <edge id="521" source="52" target="54" weight="10.630809185347184"></edge>
+      <edge id="522" source="4" target="73" weight="10.606060606060606"></edge>
+      <edge id="523" source="20" target="54" weight="10.598606662924688"></edge>
+      <edge id="524" source="44" target="50" weight="10.54474043715847"></edge>
+      <edge id="525" source="22" target="65" weight="10.52078032230704"></edge>
+      <edge id="526" source="7" target="13" weight="10.473940435280642"></edge>
+      <edge id="527" source="24" target="53" weight="10.45855242808537"></edge>
+      <edge id="528" source="19" target="51" weight="10.401819097471272"></edge>
+      <edge id="529" source="45" target="56" weight="10.399562123700054"></edge>
+      <edge id="530" source="38" target="76" weight="10.33859221287679"></edge>
+      <edge id="531" source="14" target="70" weight="10.287662476028126"></edge>
+      <edge id="532" source="1" target="44" weight="10.271058323891323"></edge>
+      <edge id="533" source="47" target="76" weight="10.241858955149336"></edge>
+      <edge id="534" source="1" target="34" weight="10.21954121277466"></edge>
+      <edge id="535" source="28" target="35" weight="10.184963029205838"></edge>
+      <edge id="536" source="9" target="17" weight="10.16776934226955"></edge>
+      <edge id="537" source="30" target="34" weight="10.135462022254476"></edge>
+      <edge id="538" source="52" target="58" weight="10.098775389648749"></edge>
+      <edge id="539" source="9" target="18" weight="10.088941097499582"></edge>
+      <edge id="540" source="8" target="79" weight="10.06908660635902"></edge>
+      <edge id="541" source="14" target="29" weight="10.053460839493976"></edge>
+      <edge id="542" source="20" target="57" weight="10.04659269631684"></edge>
+      <edge id="543" source="38" target="82" weight="9.989127480293558"></edge>
+      <edge id="544" source="15" target="57" weight="9.95584945837444"></edge>
+      <edge id="545" source="26" target="70" weight="9.941225860621326"></edge>
+      <edge id="546" source="6" target="23" weight="9.917208752217622"></edge>
+      <edge id="547" source="6" target="38" weight="9.899417271092926"></edge>
+      <edge id="548" source="24" target="57" weight="9.81289302460834"></edge>
+      <edge id="549" source="72" target="75" weight="9.615384615384615"></edge>
+      <edge id="550" source="26" target="44" weight="9.580047074369245"></edge>
+      <edge id="551" source="3" target="65" weight="9.551075268817204"></edge>
+      <edge id="552" source="9" target="28" weight="9.549744119442227"></edge>
+      <edge id="553" source="34" target="40" weight="9.502262443438914"></edge>
+      <edge id="554" source="13" target="55" weight="9.49341162012699"></edge>
+      <edge id="555" source="57" target="71" weight="9.478935698447893"></edge>
+      <edge id="556" source="69" target="76" weight="9.367732877012855"></edge>
+      <edge id="557" source="6" target="28" weight="9.302862419205908"></edge>
+      <edge id="558" source="76" target="83" weight="9.272300469483566"></edge>
+      <edge id="559" source="7" target="49" weight="9.270025839793282"></edge>
+      <edge id="560" source="39" target="73" weight="9.241673548031928"></edge>
+      <edge id="561" source="27" target="52" weight="9.209681561376478"></edge>
+      <edge id="562" source="42" target="77" weight="9.195402298850574"></edge>
+      <edge id="563" source="33" target="57" weight="9.191169382049551"></edge>
+      <edge id="564" source="15" target="60" weight="9.182468237247015"></edge>
+      <edge id="565" source="13" target="27" weight="9.137769447047797"></edge>
+      <edge id="566" source="20" target="60" weight="9.096910091525373"></edge>
+      <edge id="567" source="1" target="31" weight="9.076431459955284"></edge>
+      <edge id="568" source="4" target="70" weight="8.974358974358974"></edge>
+      <edge id="569" source="6" target="21" weight="8.820239851966363"></edge>
+      <edge id="570" source="68" target="72" weight="8.791208791208792"></edge>
+      <edge id="571" source="27" target="47" weight="8.70003223726628"></edge>
+      <edge id="572" source="23" target="27" weight="8.699353081375554"></edge>
+      <edge id="573" source="18" target="56" weight="8.643721515008643"></edge>
+      <edge id="574" source="56" target="66" weight="8.559373116335141"></edge>
+      <edge id="575" source="29" target="38" weight="8.557838746220732"></edge>
+      <edge id="576" source="6" target="52" weight="8.455991674100504"></edge>
+      <edge id="577" source="21" target="74" weight="8.45057379010164"></edge>
+      <edge id="578" source="72" target="73" weight="8.44988344988345"></edge>
+      <edge id="579" source="55" target="72" weight="8.354559347936831"></edge>
+      <edge id="580" source="9" target="79" weight="8.33402232327408"></edge>
+      <edge id="581" source="31" target="66" weight="8.314361169292415"></edge>
+      <edge id="582" source="64" target="72" weight="8.305804624823029"></edge>
+      <edge id="583" source="27" target="28" weight="8.27667254260052"></edge>
+      <edge id="584" source="7" target="74" weight="8.271114322414899"></edge>
+      <edge id="585" source="1" target="55" weight="8.23701503429689"></edge>
+      <edge id="586" source="74" target="79" weight="8.184125193853093"></edge>
+      <edge id="587" source="29" target="58" weight="8.166982576572577"></edge>
+      <edge id="588" source="57" target="82" weight="8.134454663535339"></edge>
+      <edge id="589" source="42" target="72" weight="8.123342175066313"></edge>
+      <edge id="590" source="30" target="60" weight="8.121410992616898"></edge>
+      <edge id="591" source="31" target="79" weight="7.6767854009475345"></edge>
+      <edge id="592" source="39" target="64" weight="7.656806472367308"></edge>
+      <edge id="593" source="26" target="42" weight="7.512160166768002"></edge>
+      <edge id="594" source="26" target="56" weight="7.356763024269322"></edge>
+      <edge id="595" source="39" target="80" weight="7.308803912850156"></edge>
+      <edge id="596" source="15" target="56" weight="6.789734983567582"></edge>
+      <edge id="597" source="18" target="80" weight="6.617887063431618"></edge>
+      <edge id="598" source="4" target="42" weight="6.606583072100314"></edge>
+      <edge id="599" source="56" target="64" weight="6.602395559450774"></edge>
+      <edge id="600" source="42" target="55" weight="6.559716830326559"></edge>
+      <edge id="601" source="9" target="80" weight="6.502607561929596"></edge>
+      <edge id="602" source="15" target="80" weight="6.43002372077262"></edge>
+      <edge id="603" source="22" target="33" weight="6.235203009182432"></edge>
+      <edge id="604" source="42" target="56" weight="6.055008210180624"></edge>
+      <edge id="605" source="33" target="37" weight="5.88066327196762"></edge>
+    </edges>
+  </graph>
+</gexf>
