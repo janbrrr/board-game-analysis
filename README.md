@@ -7,7 +7,7 @@ This project is about analyzing the data on board games available on [BoardGameG
 The analysis is divided into three parts and there is (will be) a short post on my blog for every one of them.
 * [Growth over Time and Kickstarter](#part_one)
 * [A Network Visualization of the Board Game Categories](#part_two)
-* TBD
+* [A Network Visualization using Board Games](#part_three)
 
 ## Collecting the Data
 
@@ -57,7 +57,7 @@ For more information either refer to `data_collection/database/tables.py` or `da
 
 ## <a name="part_one"></a>Part One - Growth over Time and Kickstarter
 
-*The corresponding blog post is available [here](https://janbarrera.com/blog/post/board-game-analysis-part-1/)*.
+*The corresponding blog post is available [here](https://janbarrera.com/blog/post/board-game-analysis-part-1/).*
 
 The first part is divided into the following topics:
 1. The Rise of Board Games
@@ -69,7 +69,7 @@ For every topic, there is corresponding Jupyter Notebook in `part_one/`.
 
 ## <a name="part_two"></a>Part Two - A Network Visualization of the Board Game Categories
 
-*The corresponding blog post is available [here](https://janbarrera.com/blog/post/board-game-analysis-part-2/)*
+*The corresponding blog post is available [here](https://janbarrera.com/blog/post/board-game-analysis-part-2/).*
 
 This part uses *[Gephi](https://gephi.org/)* and their *Force Atlas 2* algorithm to create a network visualization of the board game categories,
 where every node is a category and the edge weight between two categories indicates how often both categories co-occur in board games.
@@ -81,6 +81,15 @@ The *filters* I used in Gephi were the following (for some reason the values are
 - Removal of edges with a weight less than 15.0
 - Removal of nodes that have a count value of less than 100
 
+## <a name="part_three"></a>Part Three - A Network Visualization using Board Games
+
+*The corresponding blog post is available [here](https://janbarrera.com/blog/post/board-game-analysis-part-3/).*
+
+This part is based on part two and applies the concept of a network visualization to board games in order to find similar board games to a given board game.
+
+The script in `part_three/create_board_game_nodes_and_edges.py` is used to create the node list and the edge list for further usage in *Gephi*. Again, the node list and edge list I used in my blog are available at `part_three/data/`
+and the graph-related files are located in `part_three/gephi/`.
+
 ## Special Thanks
 
 Special thanks to *Alex Olteanu* who wrote a [tutorial](https://www.dataquest.io/blog/making-538-plots/) on creating plots in the style of *FiveThirtyEight*.
@@ -90,3 +99,4 @@ Also special thanks to *David Kriesel* and [his work](http://www.dkriesel.com/sp
 His work served as inspiration for this project and the network visualization on the board game categories is based on his network visualization of the news keywords and their relationships. 
 If you understand german, I highly recommend you to check it out.
 
+Finally, special thanks to *Raphaël Velt* and all the contributors to his [JavaScript GEXF Viewer for Gephi](https://github.com/raphv/gexf-js). It's an awesome tool to display the graphs in the browser.
